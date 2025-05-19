@@ -1,0 +1,368 @@
+阿巴拉契亚州立山民	a ba la qi ya zhou li shan min
+阿肯色红背野猪	a ken se hong bei ye zhu
+艾奥瓦鹰眼	ai ao wa ying yan
+艾奥瓦州立旋风	ai ao wa zhou li xuan feng
+爱达荷汪达尔人	ai da he wang da er ren
+爱国者联盟	ai guo zhe lian meng
+埃默里亨利阵型	ai mo li heng li zhen xing
+艾型阵型	ai xing zhen xing
+安全得分	an quan de fen
+安全球	an quan qiu
+安全卫	an quan wei
+鞍式拦截	an shi lan jie
+奥本老虎	ao ben lao hu
+奥克兰突袭者	ao ke lan tu xi zhe
+巴尔的摩乌鸦	ba er de mo wu ya
+巴克奈尔水牛	ba ke nai er shui niu
+半卫	ban wei
+鲍灵格林州立战鹰	bao ling ge lin zhou li zhan ying
+北卡罗莱纳焦油蹱	bei ka luo lai na jiao you zhong
+贝勒熊队	bei le xiong dui
+鼻锋	bi feng
+边裁	bian cai
+变位传球	bian wei chuan qiu
+宾夕法尼亚贵格会	bin xi fa ni ya gui ge hui
+宾州州立尼塔尼雄狮	bin zhou zhou li ni ta ni xiong shi
+波士顿学院老鹰	bo shi dun xue yuan lao ying
+博伊西州立野马	bo yi xi zhou li ye ma
+布法罗比尔	bu fa luo bi er
+布朗熊队	bu lang xiong dui
+叉骨阵阵型	cha gu zhen zhen xing
+场裁	chang cai
+长距离投进	chang ju li tou jin
+长开球员	chang kai qiu yuan
+场内裁判	chang nei cai pan
+场内球	chang nei qiu
+常青藤联盟	chang qing teng lian meng
+超级十四锦标赛	chao ji shi si jin biao sai
+超级碗	chao ji wan
+抄截	chao jie
+衬裤	chen ku
+持球冲线	chi qiu chong xian
+持球触地	chi qiu chu di
+冲球	chong qiu
+冲撞四分卫	chong zhuang si fen wei
+触地	chu di
+出界	chu jie
+传攻	chuan gong
+粗暴动作	cu bao dong zuo
+粗暴干扰踢球	cu bao gan rao ti qiu
+错误启动	cuo wu qi dong
+达拉斯牛仔	da la si niu zai
+大南方联盟	da nan fang lian meng
+大十二联盟	da shi er lian meng
+大十联盟	da shi lian meng
+达特茅斯大绿	da te mao si da lv
+大天空联盟	da tian kong lian meng
+大腿护垫	da tui hu dian
+大西洋海岸联盟	da xi yang hai an lian meng
+达阵	da zhen
+达阵得分	da zhen de fen
+达阵区	da zhen qu
+代顿飞人	dai dun fei ren
+丹佛野马	dan fo ye ma
+单跑卫阵型	dan pao wei zhen xing
+德奥斯阵型	de ao si zhen xing
+得分区	de fen qu
+德州长角牛	de zhou chang jiao niu
+德州厄尔帕索矿工	de zhou e er pa suo kuang gong
+德州教会角蛙	de zhou jiao hui jiao wa
+德州科技红骑兵	de zhou ke ji hong qi bing
+德州农机爱姬	de zhou nong ji ai ji
+底特律雄狮	di te lv xiong shi
+低位冲撞	di wei chong zhuang
+掉球	diao qiu
+定位球	ding wei qiu
+丁字阵型	ding zi zhen xing
+东北联盟	dong bei lian meng
+东卡罗莱纳海盗	dong ka luo lai na hai dao
+东密歇根老鹰	dong mi xie gen lao ying
+东南联盟	dong nan lian meng
+堵截	du jie
+杜克蓝魔	du ke lan mo
+杜兰绿浪	du lan lv lang
+端锋	duan feng
+断球	duan qiu
+端区	duan qu
+端线	duan xian
+俄亥俄河谷联盟	e hai e he gu lian meng
+俄亥俄美洲豹	e hai e mei zhou bao
+俄亥俄州立七叶树	e hai e zhou li qi ye shu
+俄克拉荷马捷足者	e ke la he ma jie zu zhe
+俄克拉荷马州立牛仔	e ke la he ma zhou li niu zai
+俄勒冈鸭子	e le gang ya zi
+俄勒冈州立海狸	e le gang zhou li hai li
+鄂套	e tao
+二次冲线	er ci chong xian
+二挡	er dang
+二分转换	er fen zhuan huan
+二线	er xian
+罚码	fa ma
+范德比尔特海军将领	fan de bi er te hai jun jiang ling
+防守端锋	fang shou duan feng
+防守截锋	fang shou jie feng
+防守前锋	fang shou qian feng
+防守组	fang shou zu
+费城老鹰	fei cheng lao ying
+非法冲撞	fei fa chong zhuang
+非法触地	fei fa chu di
+非法接球	fei fa jie qiu
+非法头盔获利	fei fa tou kui huo li
+非法阵型	fei fa zhen xing
+分立双跑卫阵型	fen li shuang pao wei zhen xing
+封堵	feng du
+锋线	feng xian
+佛罗里达短吻鳄	fo luo li da duan wen e
+佛罗里达州立赛米诺人	fo luo li da zhou li sai mi nuo ren
+副裁判	fu cai pan
+福德汉姆公羊	fu de han mu gong yang
+弗吉尼亚骑兵	fu ji ni ya qi bing
+附加分	fu jia fen
+弗雷斯诺州立斗牛犬	fu lei si nuo zhou li dou niu quan
+扶球手	fu qiu shou
+副线裁	fu xian cai
+橄榄球	gan lan qiu
+橄榄球面罩	gan lan qiu mian zhao
+橄榄球世界杯赛	gan lan qiu shi jie bei sai
+橄榄球头盔	gan lan qiu tou kui
+干扰传球	gan rao chuan qiu
+哥伦比亚狮子	ge lun bi ya shi zi
+个人犯规	ge ren fan gui
+攻击内锋	gong ji nei feng
+攻击组	gong ji zu
+攻守转换	gong shou zhuan huan
+故意触地	gu yi chu di
+国际橄榄球理事会	guo ji gan lan qiu li shi hui
+国际美式橄榄联合会	guo ji mei shi gan lan lian he hui
+国际英式橄榄球联合会	guo ji ying shi gan lan qiu lian he hui
+哈佛赤红	ha fo chi hong
+海军后补少尉	hai jun hou bu shao wei
+合法冲撞	he fa chong zhuang
+横传	heng chuan
+后场裁判	hou chang cai pan
+护齿	hu chi
+护锋	hu feng
+护胫	hu jing
+护具	hu ju
+护手	hu shou
+华盛顿哈士奇	hua sheng dun ha shi qi
+华盛顿红皮	hua sheng dun hong pi
+华盛顿州立美洲豹	hua sheng dun zhou li mei zhou bao
+怀俄明牛仔	huai e ming niu zai
+回传	hui chuan
+回攻	hui gong
+回攻手	hui gong shou
+获利规则	huo li gui ze
+获胜阵型	huo sheng zhen xing
+假跑真传	jia pao zhen chuan
+加州伯克利金熊	jia zhou bo ke li jin xiong
+加州洛杉矶布鲁因熊	jia zhou luo shan ji bu lu yin xiong
+肩垫	jian dian
+尖锋	jian feng
+角卫	jiao wei
+截锋	jie feng
+杰克逊维尔美洲虎	jie ke xun wei er mei zhou hu
+接球	jie qiu
+近端锋	jin duan feng
+进攻组	jin gong zu
+旧金山四九人	jiu jin shan si jiu ren
+卡罗莱纳黑豹	ka luo lai na hei bao
+开球	kai qiu
+堪萨斯城酋长	kan sa si cheng qiu zhang
+康涅狄格哈士奇	kang nie di ge ha shi qi
+克莱姆森老虎	ke lai mu sen lao hu
+克利夫兰布朗	ke li fu lan bu lang
+科罗拉多野牛	ke luo la duo ye niu
+科罗拉多州立公羊	ke luo la duo zhou li gong yang
+肯塔基野猫	ken ta ji ye mao
+肯特州立金色闪电	ken te zhou li jin se shan dian
+空军战鹰	kong jun zhan ying
+拉各比	la ge bi
+拉人	la ren
+莱斯猫头鹰	lai si mao tou ying
+拦截	lan jie
+利哈伊山鹰	li ha yi shan ying
+利益规则	li yi gui ze
+脸颊下部护具	lian jia xia bu hu ju
+两分转换	liang fen zhuan huan
+两码冲线	liang ma chong xian
+六国锦标赛	liu guo jin biao sai
+路易维尔红雀	lu yi wei er hong que
+罗格斯猩红骑士	luo ge si xing hong qi shi
+洛杉矶公羊	luo shan ji gong yang
+绿湾包装工	lv wan bao zhuang gong
+马鞍式拦截	ma an shi lan jie
+马鞍式擒抱	ma an shi qin bao
+马里兰淡水龟	ma li lan dan shui gui
+马萨诸塞一分钟民兵	ma sa zhu sai yi fen zhong min bing
+马绍尔雷鸣兽群	ma shao er lei ming shou qun
+码数	ma shu
+迈阿密海豚	mai a mi hai tun
+迈阿密飓风	mai a mi ju feng
+迈阿密牛津红鹰	mai a mi niu jin hong ying
+盲侧	mang ce
+盲区	mang qu
+美国大学体育协会	mei guo da xue ti yu xie hui
+美国橄榄球联盟	mei guo gan lan qiu lian meng
+美国国家橄榄球大联盟	mei guo guo jia gan lan qiu da lian meng
+美国竞技联盟	mei guo jing ji lian meng
+美国联盟	mei guo lian meng
+美国职业橄榄球大联盟	mei guo zhi ye gan lan qiu da lian meng
+美国职业橄榄球协会	mei guo zhi ye gan lan qiu xie hui
+美国中部联盟	mei guo zhong bu lian meng
+美式橄榄球	mei shi gan lan qiu
+美式足球	mei shi zu qiu
+蒙大拿灰熊	meng da na hui xiong
+蒙大拿州立短尾猫	meng da na zhou li duan wei mao
+孟菲斯老虎	meng fei si lao hu
+密苏里河谷联盟	mi su li he gu lian meng
+密苏里老虎	mi su li lao hu
+密西西比叛军	mi xi xi bi pan jun
+密西西比州立斗牛犬	mi xi xi bi zhou li dou niu quan
+密歇根狼獾	mi xie gen lang huan
+密歇根州立斯巴达	mi xie gen zhou li si ba da
+明尼苏达金色地鼠	ming ni su da jin se di shu
+明尼苏达维京人	ming ni su da wei jing ren
+南部联盟	nan bu lian meng
+南达科他野狼	nan da ke ta ye lang
+南佛罗里达公牛	nan fo luo li da gong niu
+南加州特洛伊人	nan jia zhou te luo yi ren
+南卡罗莱纳斗鸡	nan ka luo lai na dou ji
+南卫理公会野马	nan wei li gong hui ye ma
+内布拉斯加玉米剥皮机	nei bu la si jia yu mi bao pi ji
+内华达拉城反叛者	nei hua da la cheng fan pan zhe
+内华达狼群	nei hua da lang qun
+内肩垫拦截	nei jian dian lan jie
+鸟枪阵型	niao qiang zhen xing
+纽约巨人	niu yue ju ren
+纽约喷气机	niu yue pen qi ji
+欧道明君主	ou dao ming jun zhu
+拍前	pai qian
+拍阻	pai zu
+跑攻	pao gong
+抛前	pao qian
+抛球	pao qiu
+跑卫	pao wei
+匹兹堡钢人	pi zi bao gang ren
+屏风传球	ping feng chuan qiu
+普渡锅炉工	pu du guo lu gong
+普林斯顿老虎	pu lin si dun lao hu
+气垫	qi dian
+七人制橄榄球	qi ren zhi gan lan qiu
+弃踢	qi ti
+弃踢手	qi ti shou
+前传	qian chuan
+抢跑	qiang pao
+强卫	qiang wei
+乔治城霍亚犬	qiao zhi cheng huo ya quan
+擒抱	qin bao
+侵入中立区	qin ru zhong li qu
+球门	qiu men
+球门横木	qiu men heng mu
+球门线	qiu men xian
+全场裁判	quan chang cai pan
+全国大学体育协会	quan guo da xue ti yu xie hui
+全卫	quan wei
+全卫中路硬突	quan wei zhong lu ying tu
+任意球	ren yi qiu
+弱侧	ruo ce
+三挡	san dang
+三挡长码	san dang chang ma
+三挡短码	san dang duan ma
+山西联盟	shan xi lian meng
+射门得分	she men de fen
+圣迭戈闪电	sheng die ge shan dian
+圣迭戈州立阿兹特克人	sheng die ge zhou li a zi te ke ren
+圣何塞州立斯巴达	sheng he sai zhou li si ba da
+圣路易斯公羊	sheng lu yi si gong yang
+圣母爱尔兰战士	sheng mu ai er lan zhan shi
+十大联盟	shi da lian meng
+时间管理	shi jian guan li
+手枪阵型	shou qiang zhen xing
+双全卫阵型	shuang quan wei zhen xing
+四挡	si dang
+四分卫	si fen wei
+斯克林美奇线	si ke lin mei qi xian
+死球线	si qiu xian
+斯坦福大红	si tan fu da hong
+塔尔萨金色飓风	ta er sa jin se ju feng
+太平洋十二校联盟	tai ping yang shi er xiao lian meng
+坦帕湾海盗	tan pa wan hai dao
+特勤组	te qin zu
+踢球员	ti qiu yuan
+田纳西泰坦	tian na xi tai tan
+田纳西志愿者	tian na xi zhi yuan zhe
+天普猫头鹰	tian pu mao tou ying
+头盔碰撞	tou kui peng zhuang
+头盔外壳	tou kui wai ke
+臀部护垫	tun bu hu dian
+外接手	wai jie shou
+万福玛丽球	wan fu ma li qiu
+围堵球	wei du qiu
+维克森林魔鬼执事	wei ke sen lin mo gui zhi shi
+维拉诺瓦野猫	wei la nuo wa ye mao
+威廉玛丽部落	wei lian ma li bu luo
+威斯康辛獾队	wei si kang xin huan dui
+西北野猫	xi bei ye mao
+西点军校黑骑士	xi dian jun xiao hei qi shi
+西弗吉尼亚山民	xi fu ji ni ya shan min
+膝盖护垫	xi gai hu dian
+西海岸联盟	xi hai an lian meng
+西卡罗莱纳大野猫	xi ka luo lai na da ye mao
+西肯塔基登顶者	xi ken ta ji deng ding zhe
+西密歇根野马	xi mi xie gen ye ma
+西雅图海鹰	xi ya tu hai ying
+夏威夷彩虹武士	xia wei yi cai hong wu shi
+霰弹枪阵型	xian dan qiang zhen xing
+先驱者联盟	xian qu zhe lian meng
+线卫	xian wei
+新奥尔良圣徒	xin ao er liang sheng tu
+辛辛纳提孟加拉虎	xin xin na ti meng jia la hu
+辛辛那提熊猫	xin xin na ti xiong mao
+新英格兰爱国者	xin ying ge lan ai guo zhe
+休斯敦德州人	xiu si dun de zhou ren
+休斯敦美洲豹	xiu si dun mei zhou bao
+雪城橙色	xue cheng cheng se
+亚拉巴马伯明翰喷火龙	ya la ba ma bo ming han pen huo long
+亚拉巴马赤色潮水	ya la ba ma chi se chao shui
+亚利桑那红雀	ya li sang na hong que
+亚利桑那野猫	ya li sang na ye mao
+压球触地	ya qiu chu di
+亚特兰大猎鹰	ya te lan da lie ying
+亚洲橄榄球联合会	ya zhou gan lan qiu lian he hui
+延迟比赛	yan chi bi sai
+杨百瀚美洲豹	yang bai han mei zhou bao
+阳光地带联盟	yang guang di dai lian meng
+杨斯敦州立企鹅	yang si dun zhou li qi e
+腰部护垫	yao bu hu dian
+腰旗橄榄球	yao qi gan lan qiu
+耶鲁斗牛犬	ye lu dou niu quan
+野猫阵型	ye mao zhen xing
+一挡	yi dang
+伊利诺伊伊莱奈战士	yi li nuo yi yi lai nai zhan shi
+印第安纳波利斯小马	yin di an na bo li si xiao ma
+印第安纳胡希尔人	yin di an na hu xi er ren
+英格兰橄榄球超级联赛	ying ge lan gan lan qiu chao ji lian sai
+英式橄榄球	ying shi gan lan qiu
+犹他犹他人	you ta you ta ren
+游卫	you wei
+越位	yue wei
+越线	yue xian
+詹姆斯麦迪逊公爵	zhan mu si mai di xun gong jue
+争夺线	zheng duo xian
+争球线	zheng qiu xian
+芝加哥熊	zhi jia ge xiong
+中锋	zhong feng
+中佛罗里达骑士	zhong fo luo li da qi shi
+中国橄榄球协会	zhong guo gan lan qiu xie hui
+中密歇根齐佩瓦人	zhong mi xie gen qi pei wa ren
+重踢	zhong ti
+中卫	zhong wei
+肘垫	zhou dian
+主裁判	zhu cai pan
+主线裁	zhu xian cai
+抓面罩	zhua mian zhao
+撞盔	zhuang kui
+追加球	zhui jia qiu
+佐治亚斗牛犬	zuo zhi ya dou niu quan
+佐治亚理工大黄蜂	zuo zhi ya li gong da huang feng

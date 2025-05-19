@@ -1,0 +1,25 @@
+白棋	bai qi
+冲四	chong si
+防守	fang shou
+寒星	han xing
+黑棋	hei qi
+花月	hua yue
+活三	huo san
+进攻	jin gong
+禁手	jin shou
+开局	kai ju
+连珠	lian zhu
+流星	liu xing
+眠三	mian san
+棋盘	qi pan
+棋子	qi zi
+疏星	shu xing
+四三	si san
+四三三	si san san
+跳二	tiao er
+五子棋	wu zi qi
+溪月	xi yue
+优势	you shi
+雨月	yu yue
+抓禁手	zhua jin shou
+做活	zuo huo

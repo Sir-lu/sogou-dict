@@ -1,0 +1,434 @@
+阿尔伯特公园	a er bo te gong yuan
+阿尔伯特公园赛道	a er bo te gong yuan sai dao
+阿尔伯特路	a er bo te lu
+阿古尔苏拉里	a gu er su la li
+阿奎苏阿里	a kui su a li
+阿拉贡赛道	a la gong sai dao
+阿联酋大奖赛	a lian qiu da jiang sai
+阿隆索	a long suo
+阿斯卡里	a si ka li
+埃克莱斯通	ai ke lai si tong
+安德森	an de sen
+安东尼戴维森	an dong ni dai wei sen
+安全车	an quan che
+澳大利亚车手	ao da li ya che shou
+澳大利亚大奖赛	ao da li ya da jiang sai
+巴顿	ba dun
+巴多尔	ba duo er
+巴里切罗	ba li qie luo
+巴林大奖赛	ba lin da jiang sai
+巴林英特拉格斯赛道	ba lin ying te la ge si sai dao
+巴西车手	ba xi che shou
+巴西大奖赛	ba xi da jiang sai
+棒棒糖人	bang bang tang ren
+爆缸	bao gang
+保罗	bao luo
+宝马	bao ma
+宝马车队	bao ma che dui
+宝马公司	bao ma gong si
+宝马集团	bao ma ji tuan
+宝马索伯	bao ma suo bo
+宝马威廉姆斯	bao ma wei lian mu si
+保温毯	bao wen tan
+北卡罗来纳州	bei ka luo lai na zhou
+贝纳通车队	bei na tong che dui
+本田	ben tian
+比利时大奖赛	bi li shi da jiang sai
+比利时斯帕赛道	bi li shi si pa sai dao
+比赛秩序	bi sai zhi xu
+伯布拉布汉姆	bo bu la bu han mu
+波尔戴	bo er dai
+伯尔戴斯	bo er dai si
+博尔戴斯	bo er dai si
+波尔戴斯	bo er dai si
+伯尼	bo ni
+布拉汉姆车队	bu la han mu che dui
+布朗	bu lang
+布朗车队	bu lang che dui
+布里亚托利	bu li ya tuo li
+不同等级	bu tong deng ji
+参赛车队	can sai che dui
+参赛许可	can sai xu ke
+参赛资格	can sai zi ge
+查德	cha de
+场地赛车	chang di sai che
+厂商车队	chang shang che dui
+超级驾驶执照	chao ji jia shi zhi zhao
+超级驾照	chao ji jia zhao
+超级亚久里	chao ji ya jiu li
+超级亚久里车队	chao ji ya jiu li che dui
+超软胎	chao ruan tai
+车队	che dui
+车队方	che dui fang
+车队介绍	che dui jie shao
+车队经理	che dui jing li
+车队领队	che dui ling dui
+车队总部	che dui zong bu
+车身	che shen
+车手积分榜	che shou ji fen bang
+车手介绍	che shou jie shao
+车手阵容	che shou zhen rong
+车手总成绩	che shou zong cheng ji
+车手总冠军	che shou zong guan jun
+车速	che su
+车王	che wang
+车载摄像头	che zai she xiang tou
+成员车队	cheng yuan che dui
+出站通道	chu zhan tong dao
+处子秀	chu zi xiu
+创立比赛	chuang li bi sai
+大环境	da huan jing
+达喀尔	da ka er
+大卫库特哈德	da wei ku te ha de
+戴维德森	dai wei de sen
+戴维森	dai wei sen
+德国车王	de guo che wang
+德国大奖赛	de guo da jiang sai
+德国赛车俱乐部	de guo sai che ju le bu
+德国站比赛	de guo zhan bi sai
+德雷格	de lei ge
+蒂姆格洛克	di mu ge luo ke
+底盘	di pan
+电子加温毯	dian zi jia wen tan
+电子控制单元	dian zi kong zhi dan yuan
+端板	duan ban
+多梅尼卡利	duo mei ni ka li
+法国马尼库尔赛道	fa guo ma ni ku er sai dao
+发夹弯	fa jia wan
+法拉利	fa la li
+法拉利车队	fa la li che dui
+法拉利官网	fa la li guan wang
+法拉利赛车	fa la li sai che
+发起组建	fa qi zu jian
+发展部主管	fa zhan bu zhu guan
+方程式比赛	fang cheng shi bi sai
+方程式赛车	fang cheng shi sai che
+方程式赛车规范	fang cheng shi sai che gui fan
+方格旗	fang ge qi
+防火头巾	fang huo tou jin
+费尔南多阿隆索	fei er nan duo a long suo
+菲利佩	fei li pei
+菲利普马萨	fei li pu ma sa
+费斯切拉	fei si qie la
+费斯谢拉	fei si xie la
+分站冠军	fen zhan guan jun
+分站赛	fen zhan sai
+丰田	feng tian
+富士赛道	fu shi sai dao
+负责确保	fu ze que bao
+杆位	gan wei
+格洛克	ge luo ke
+工程总监	gong cheng zong jian
+官方声明	guan fang sheng ming
+光头胎	guang tou tai
+国际汽车联合会	guo ji qi che lian he hui
+国际汽联	guo ji qi lian
+海菲尔德	hai fei er de
+海费尔德	hai fei er de
+海基科瓦莱宁	hai ji ke wa lai ning
+汉密尔顿	han mi er dun
+赫尔利	he er li
+核心地带	he xin di dai
+黑白方格旗	hei bai fang ge qi
+亨格罗林	heng ge luo lin
+亨格罗林赛道	heng ge luo lin sai dao
+红牛	hong niu
+红牛车队	hong niu che dui
+红牛车手	hong niu che shou
+红牛二队	hong niu er dui
+护墙	hu qiang
+怀特弗德	huai te fu de
+霍根海姆	huo gen hai mu
+霍根海姆赛道	huo gen hai mu sai dao
+吉安卡罗费斯切拉	ji an ka luo fei si qie la
+吉尔斯维伦纽夫赛道	ji er si wei lun niu fu sai dao
+吉米莱科宁	ji mi lai ke ning
+计算机流体力学	ji suan ji liu ti li xue
+机械师	ji xie shi
+加拿大维伦纽夫赛道	jia na da wei lun niu fu sai dao
+驾驶仓	jia shi cang
+驾驶方式	jia shi fang shi
+驾驶技术	jia shi ji shu
+嘉泰罗尼亚	jia tai luo ni ya
+加泰罗尼亚赛道	jia tai luo ni ya sai dao
+加温毯	jia wen tan
+监管者	jian guan zhe
+简森巴顿	jian sen ba dun
+减速弯	jian su wan
+杰米	jie mi
+节目解说	jie mu jie shuo
+进站	jin zhan
+经纪人	jing ji ren
+均衡制胜	jun heng zhi sheng
+卡丁车系列赛	ka ding che xi lie sai
+卡特斯克亚	ka te si ke ya
+开始制造	kai shi zhi zao
+坎普萨	kan pu sa
+考斯沃斯	kao si wo si
+考斯沃斯引擎	kao si wo si yin qing
+科瓦莱宁	ke wa lai ning
+空气动力学套件	kong qi dong li xue tao jian
+控制成本	kong zhi cheng ben
+库比卡	ku bi ka
+库比萨	ku bi sa
+库特哈德	ku te ha de
+扩散器	kuo san qi
+莱科	lai ke
+莱科宁	lai ke ning
+莱库宁	lai ku ning
+蓝旗	lan qi
+劳达	lao da
+勒芒	le mang
+雷克南	lei ke nan
+雷诺	lei nuo
+雷诺车队	lei nuo che dui
+雷诺赛车	lei nuo sai che
+雷瑟夫	lei se fu
+离合器	li he qi
+里卡	li ka
+里普索尔	li pu suo er
+练习赛	lian xi sai
+刘易斯汉密尔顿	liu yi si han mi er dun
+鲁本巴里切罗	lu ben ba li qie luo
+路肩	lu jian
+轮毂罩	lun gu zhao
+轮胎抱死	lun tai bao si
+轮胎工作温度	lun tai gong zuo wen du
+轮胎护墙	lun tai hu qiang
+轮胎粒化	lun tai li hua
+轮胎统一	lun tai tong yi
+轮胎抓地力	lun tai zhua di li
+轮胎抓地力差异	lun tai zhua di li cha yi
+罗伯特库比卡	luo bo te ku bi ka
+罗斯伯格	luo si bo ge
+罗斯布朗	luo si bu lang
+马克韦伯	ma ke wei bo
+马来西亚大奖赛	ma lai xi ya da jiang sai
+马尼库尔赛道	ma ni ku er sai dao
+马萨	ma sa
+马萨事故	ma sa shi gu
+迈凯轮	mai kai lun
+麦纳麦国际赛车场	mai na mai guo ji sai che chang
+美国车队	mei guo che dui
+美国车手	mei guo che shou
+美国技术	mei guo ji shu
+蒙特卡罗	meng te ka luo
+蒙特泽莫罗	meng te ze mo luo
+蒙特泽摩罗	meng te ze mo luo
+蒙托亚	meng tuo ya
+蒙扎	meng zha
+民用车	min yong che
+摩纳哥大奖赛	mo na ge da jiang sai
+摩纳哥蒙特卡罗赛道	mo na ge meng te ka luo sai dao
+莫斯利	mo si li
+尼尔森皮奎特	ni er sen pi kui te
+尼尔森小皮奎特	ni er sen xiao pi kui te
+尼基	ni ji
+尼克海菲尔德	ni ke hai fei er de
+尼克罗斯伯格	ni ke luo si bo ge
+年度车队总冠军	nian du che dui zong guan jun
+纽博格林赛道	niu bo ge lin sai dao
+纽维	niu wei
+暖胎圈	nuan tai quan
+欧洲大奖赛	ou zhou da jiang sai
+欧洲基地	ou zhou ji di
+帕尔	pa er
+帕特	pa te
+排名垫底	pai ming dian di
+排气回压	pai qi hui ya
+排位	pai wei
+排位赛	pai wei sai
+碰撞测试	peng zhuang ce shi
+皮盖特	pi gai te
+皮奎特	pi kui te
+皮特	pi te
+普林斯通	pu lin si tong
+普罗斯特	pu luo si te
+汽车运动	qi che yun dong
+七冠王	qi guan wang
+汽联	qi lian
+起跑控制	qi pao kong zhi
+气箱	qi xiang
+前鼻翼	qian bi yi
+前鼻锥	qian bi zhui
+牵引力控制	qian yin li kong zhi
+牵引力控制系统	qian yin li kong zhi xi tong
+强大离心力	qiang da li xin li
+取决权	qu jue quan
+全年赛程	quan nian sai cheng
+圈速	quan su
+全天候作战	quan tian hou zuo zhan
+全新战车	quan xin zhan che
+日本大奖赛	ri ben da jiang sai
+日本富士赛道	ri ben fu shi sai dao
+日本铃鹿赛道	ri ben ling lu sai dao
+软胎	ruan tai
+萨巴德尔	sa ba de er
+萨宾娜	sa bin na
+萨基尔	sa ji er
+萨基尔赛道	sa ji er sai dao
+塞巴斯蒂安	sai ba si di an
+塞巴斯蒂安波尔戴	sai ba si di an bo er dai
+塞巴斯蒂安维特尔	sai ba si di an wei te er
+赛车产业	sai che chan ye
+赛车车轮	sai che che lun
+赛车技术	sai che ji shu
+赛车领域	sai che ling yu
+赛车模型	sai che mo xing
+赛车频道	sai che pin dao
+赛车设计师	sai che she ji shi
+赛车手	sai che shou
+赛车碎片	sai che sui pian
+赛车右前轮	sai che you qian lun
+赛车运动	sai che yun dong
+赛车运动项目	sai che yun dong xiang mu
+赛程问题	sai cheng wen ti
+赛道	sai dao
+赛道黄旗	sai dao huang qi
+赛道介绍	sai dao jie shao
+赛段黄旗	sai duan huang qi
+赛会干事	sai hui gan shi
+赛季结束	sai ji jie shu
+鳃孔	sai kong
+塞纳	sai na
+赛萨基尔赛道	sai sa ji er sai dao
+赛事直播	sai shi zhi bo
+赛事总监	sai shi zong jian
+三公升方程式	san gong sheng fang cheng shi
+三公升方程式驾驶执照	san gong sheng fang cheng shi jia shi zhi zhao
+三级方程式	san ji fang cheng shi
+沙石缓冲区	sha shi huan chong qu
+上海国际赛车场	shang hai guo ji sai che chang
+上海赛道	shang hai sai dao
+试车手	shi che shou
+释放赛车	shi fang sai che
+时间处罚	shi jian chu fa
+世界冠军	shi jie guan jun
+世界锦标赛	shi jie jin biao sai
+舒马赫	shu ma he
+双巴组合	shuang ba zu he
+斯帕赛道	si pa sai dao
+苏蒂尔	su di er
+速度差异	su du cha yi
+速度之王	su du zhi wang
+索伯车队	suo bo che dui
+碳纤维强化塑料	tan xian wei qiang hua su liao
+特鲁利	te lu li
+腾讯赛车	teng xun sai che
+替补人选	ti bu ren xuan
+天气条件	tian qi tiao jian
+调校	tiao jiao
+停车案	ting che an
+投入测试	tou ru ce shi
+土耳其大奖赛	tu er qi da jiang sai
+土耳其伊斯坦布尔赛道	tu er qi yi si tan bu er sai dao
+托德	tuo de
+托姆捷克	tuo mu jie ke
+瓦尔莫运动	wa er mo yun dong
+瓦伦西亚	wa lun xi ya
+瓦伦西亚街道	wa lun xi ya jie dao
+瓦伦西亚街道赛	wa lun xi ya jie dao sai
+瓦伦西亚站	wa lun xi ya zhan
+瓦塔宁	wa ta ning
+万宝路车队	wan bao lu che dui
+韦伯	wei bo
+违规行为	wei gui xing wei
+威廉姆斯	wei lian mu si
+威廉姆斯车队	wei lian mu si che dui
+威廉姆斯车手	wei lian mu si che shou
+未能跑完	wei neng pao wan
+威尼	wei ni
+维特尔	wei te er
+维修间通道	wei xiu jian tong dao
+维修通道	wei xiu tong dao
+维修站	wei xiu zhan
+温瑟尔	wen se er
+西班牙大奖赛	xi ban ya da jiang sai
+西班牙加泰罗尼亚赛道	xi ban ya jia tai luo ni ya sai dao
+西蒙兹	xi meng zi
+吸引力降低	xi yin li jiang di
+夏洛特市	xia luo te shi
+下压力	xia ya li
+现任内阁	xian ren nei ge
+现役车型	xian yi che xing
+小红牛	xiao hong niu
+小罗斯伯格	xiao luo si bo ge
+小皮盖	xiao pi gai
+小皮奎特	xiao pi kui te
+小苏堤斯	xiao su di si
+协和协议	xie he xie yi
+新加坡大奖赛	xin jia po da jiang sai
+新加坡街道	xin jia po jie dao
+新加坡赛道	xin jia po sai dao
+新加坡站	xin jia po zhan
+新战车	xin zhan che
+匈格罗宁赛道	xiong ge luo ning sai dao
+匈牙利布达佩斯赛道	xiong ya li bu da pei si sai dao
+匈牙利大奖赛	xiong ya li da jiang sai
+匈牙利站	xiong ya li zhan
+雪邦	xue bang
+雪邦赛道	xue bang sai dao
+压舱物	ya cang wu
+亚诺特鲁利	ya nuo te lu li
+一般车辆	yi ban che liang
+意大利大奖赛	yi da li da jiang sai
+意大利蒙扎赛道	yi da li meng zha sai dao
+一级方程式	yi ji fang cheng shi
+一级方程式锦标赛	yi ji fang cheng shi jin biao sai
+一级方程式赛车	yi ji fang cheng shi sai che
+一级方程式赛车世界锦标赛	yi ji fang cheng shi sai che shi jie jin biao sai
+伊莫拉	yi mo la
+伊莫拉赛道	yi mo la sai dao
+伊斯坦布尔赛道	yi si tan bu er sai dao
+意外受伤	yi wai shou shang
+印度力量	yin du li liang
+银箭	yin jian
+引擎供应商	yin qing gong ying shang
+引擎研发	yin qing yan fa
+引擎研发冻结	yin qing yan fa dong jie
+银石	yin shi
+英国车队	ying guo che dui
+英国大奖赛	ying guo da jiang sai
+英国银石赛道	ying guo yin shi sai dao
+硬胎	ying tai
+英特拉格斯赛道	ying te la ge si sai dao
+右前轮	you qian lun
+优先解决	you xian jie jue
+预算水平	yu suan shui ping
+跃马	yue ma
+运动部主管	yun dong bu zhu guan
+在规定时间内	zai gui ding shi jian nei
+载油量	zai you liang
+掌门人伯尼	zhang men ren bo ni
+正赛	zheng sai
+正式比赛	zheng shi bi sai
+制动冷却气流通风道	zhi dong leng que qi liu tong feng dao
+制动平衡	zhi dong ping heng
+制动衰减	zhi dong shuai jian
+制动总泵	zhi dong zong beng
+执行主管	zhi xing zhu guan
+职业生涯	zhi ye sheng ya
+职业生涯巅峰期	zhi ye sheng ya dian feng qi
+中岛一贵	zhong dao yi gui
+中嶋一贵	zhong dao yi gui
+中国大奖赛	zhong guo da jiang sai
+中性胎	zhong xing tai
+主办单位	zhu ban dan wei
+主办方	zhu ban fang
+主打美国牌	zhu da mei guo pai
+主动悬挂	zhu dong xuan gua
+主席候选人	zhu xi hou xuan ren
+抓地力	zhua di li
+转向不足	zhuan xiang bu zu
+转向过度	zhuan xiang guo du
+专业运动员	zhuan ye yun dong yuan
+撞车门	zhuang che men
+撞护墙	zhuang hu qiang
+撞击测试	zhuang ji ce shi
+撞击护栏	zhuang ji hu lan
+最高领奖台	zui gao ling jiang tai
+最高转速	zui gao zhuan su
+最快圈速	zui kuai quan su
+最强车手	zui qiang che shou
+最终落实	zui zhong luo shi
+佐藤琢磨	zuo teng zhuo mo

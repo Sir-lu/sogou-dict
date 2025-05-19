@@ -1,0 +1,75 @@
+本美浓围玉	ben mei nong wei yu
+必至	bi zhi
+步兵	bu bing
+成步	cheng bu
+成桂	cheng gui
+成香	cheng xiang
+成银	cheng yin
+持将棋	chi jiang qi
+持驹	chi ju
+初手	chu shou
+船围玉	chuan wei yu
+打步诘	da bu jie
+大驹	da ju
+打驹	da ju
+定迹	ding ji
+恶手	e shou
+二枚围玉	er mei wei yu
+飞车	fei che
+风车型围玉	feng che xing wei yu
+浮驹	fu ju
+高美浓围玉	gao mei nong wei yu
+桂马	gui ma
+好手	hao shou
+合驹	he ju
+坏手	huai shou
+将棋	jiang qi
+角行	jiao xing
+诘玉	jie yu
+金将	jin jiang
+金矢仓围玉	jin shi cang wei yu
+筋位	jin wei
+驹得	ju de
+居飞车	ju fei che
+驹台	ju tai
+居玉	ju yu
+开王手	kai wang shou
+立银矢仓围玉	li yin shi cang wei yu
+流矢仓围玉	liu shi cang wei yu
+美浓围玉	mei nong wei yu
+妙手	miao shou
+木村美浓围玉	mu cun mei nong wei yu
+片美浓围玉	pian mei nong wei yu
+片矢仓围玉	pian shi cang wei yu
+棋驹	qi ju
+千日手	qian ri shou
+取驹	qu ju
+全矢仓围玉	quan shi cang wei yu
+入玉	ru yu
+三间飞车	san jian fei che
+舍驹	she ju
+矢仓围玉	shi cang wei yu
+手筋	shou jin
+四间飞车	si jian fei che
+四枚美浓围玉	si mei mei nong wei yu
+投了	tou le
+王将	wang jiang
+王手	wang shou
+围玉	wei yu
+香车	xiang che
+小驹	xiao ju
+蟹围玉	xie wei yu
+序盘	xu pan
+一手	yi shou
+银冠围玉	yin guan wei yu
+银将	yin jiang
+银矢仓围玉	yin shi cang wei yu
+右穴熊围玉	you xue xiong wei yu
+早快围玉	zao kuai wei yu
+振飞车	zhen fei che
+中盘	zhong pan
+终盘	zhong pan
+住中围玉	zhu zhong wei yu
+总矢仓围玉	zong shi cang wei yu
+左美浓围玉	zuo mei nong wei yu
+左穴熊围玉	zuo xue xiong wei yu

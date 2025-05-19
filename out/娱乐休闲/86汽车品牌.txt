@@ -1,0 +1,232 @@
+阿尔法罗米欧	a er fa luo mi ou
+阿斯顿马丁	a si dun ma ding
+爱迪尔	ai di er
+安凯客车	an kai ke che
+奥德赛	ao de sai
+奥迪	ao di
+奥克斯	ao ke si
+宝马	bao ma
+保时捷	bao shi jie
+北京奔驰	bei jing ben chi
+北京戴克	bei jing dai ke
+北京吉普	bei jing ji pu
+北京克莱斯勒	bei jing ke lai si le
+北京三菱	bei jing san ling
+北京现代	bei jing xian dai
+北旅	bei lv
+北汽	bei qi
+北汽福田	bei qi fu tian
+奔驰	ben chi
+本田	ben tian
+比亚迪	bi ya di
+标致	biao zhi
+别克	bie ke
+宾利	bin li
+铂锐	bo rui
+布加迪	bu jia di
+长安福特	chang an fu te
+长安铃木	chang an ling mu
+长安马自达	chang an ma zi da
+长安汽车	chang an qi che
+长城汽车	chang cheng qi che
+长丰猎豹	chang feng lie bao
+长丰三菱	chang feng san ling
+昌河海豚	chang he hai tun
+昌河骏马	chang he jun ma
+昌河铃木	chang he ling mu
+昌河汽车	chang he qi che
+重庆五十铃	chong qing wu shi ling
+大迪汽车	da di qi che
+大发	da fa
+大宇	da yu
+大众	da zhong
+道奇	dao qi
+东风本田	dong feng ben tian
+东风标致	dong feng biao zhi
+东风汽车	dong feng qi che
+东风日产	dong feng ri chan
+东风雪铁龙	dong feng xue tie long
+东风悦达起亚	dong feng yue da qi ya
+东箭	dong jian
+东箭科技	dong jian ke ji
+东箭锐搏	dong jian rui bo
+东箭御品	dong jian yu pin
+东南道奇	dong nan dao qi
+东南克莱斯勒	dong nan ke lai si le
+东南汽车	dong nan qi che
+东南三菱	dong nan san ling
+法拉利	fa la li
+飞碟汽车	fei die qi che
+飞度	fei du
+菲亚特	fei ya te
+风景爱尔法	feng jing ai er fa
+丰田	feng tian
+风行汽车	feng xing qi che
+富迪汽车	fu di qi che
+福克斯	fu ke si
+福莱尔	fu lai er
+福美来	fu mei lai
+富奇	fu qi
+福瑞达	fu rui da
+福特	fu te
+福田传奇	fu tian chuan qi
+广汽	guang qi
+广州宝龙	guang zhou bao long
+广州本田	guang zhou ben tian
+广州丰田	guang zhou feng tian
+广州五十铃	guang zhou wu shi ling
+哈飞汽车	ha fei qi che
+海福星	hai fu xing
+海马汽车	hai ma qi che
+汉兰达	han lan da
+悍马	han ma
+豪华轿车	hao hua jiao che
+黑豹汽车	hei bao qi che
+红旗	hong qi
+华北	hua bei
+华晨宝马	hua chen bao ma
+华普	hua pu
+华泰	hua tai
+华阳汽车	hua yang qi che
+皇冠锐志	huang guan rui zhi
+汇众	hui zhong
+吉奥	ji ao
+吉利	ji li
+吉利熊猫	ji li xiong mao
+吉普	ji pu
+佳美	jia mei
+江淮	jiang huai
+江铃	jiang ling
+江南	jiang nan
+捷豹	jie bao
+金杯	jin bei
+金程	jin cheng
+金旅客车	jin lv ke che
+京通客车	jing tong ke che
+卡罗拉	ka luo la
+凯迪拉克	kai di la ke
+凯美瑞	kai mei rui
+克莱斯勒	ke lai si le
+酷路泽	ku lu ze
+兰博基尼	lan bo ji ni
+蓝旗亚	lan qi ya
+朗杰	lang jie
+朗逸	lang yi
+劳斯莱斯	lao si lai si
+乐驰	le chi
+雷驰	lei chi
+雷克萨斯	lei ke sa si
+雷诺	lei nuo
+力帆	li fan
+莲花	lian hua
+猎豹飞腾	lie bao fei teng
+林肯	lin ken
+铃木	ling mu
+陆霸	lu ba
+陆风汽车	lu feng qi che
+路虎	lu hu
+陆铃	lu ling
+罗孚	luo fu
+旅行家	lv xing jia
+马蒂兹	ma di zi
+玛莎拉蒂	ma sha la di
+马自达	ma zi da
+迈巴赫	mai ba he
+美亚	mei ya
+蒙迪欧	meng di ou
+蒙迪欧致胜	meng di ou zhi sheng
+蒙派克	meng pai ke
+迷你	mi ni
+名爵	ming jue
+摩根	mo gen
+南京菲亚特	nan jing fei ya te
+南汽	nan qi
+欧宝	ou bao
+讴歌	ou ge
+欧蓝德	ou lan de
+帕杰罗	pa jie luo
+帕萨特	pa sa te
+庞蒂克	pang di ke
+普力马	pu li ma
+骐达	qi da
+骐菱	qi ling
+奇瑞	qi rui
+起亚	qi ya
+庆铃	qing ling
+青年莲花	qing nian lian hua
+全时数字轿车	quan shi shu zi jiao che
+日产	ri chan
+荣威	rong wei
+锐搏	rui bo
+萨博	sa bo
+三菱	san ling
+三菱戈蓝	san ling ge lan
+桑塔纳志俊	sang ta na zhi jun
+陕西汽车	shan xi qi che
+上海大众	shang hai da zhong
+上海大众斯柯达	shang hai da zhong si ke da
+上汽赛宝	shang qi sai bao
+申龙客车	shen long ke che
+世爵	shi jue
+曙光汽车	shu guang qi che
+双环汽车	shuang huan qi che
+双龙	shuang long
+水星	shui xing
+斯巴鲁	si ba lu
+思迪	si di
+斯柯达	si ke da
+思域	si yu
+速威	su wei
+苏州金龙	su zhou jin long
+索纳塔	suo na ta
+索纳塔御翔	suo na ta yu xiang
+天津一汽	tian jin yi qi
+天籁	tian lai
+天马汽车	tian ma qi che
+通田	tong tian
+万丰汽车	wan feng qi che
+威驰	wei chi
+沃尔沃	wo er wo
+五菱	wu ling
+五十铃	wu shi ling
+厦门金龙	xia men jin long
+现代	xian dai
+逍客	xiao ke
+新凯	xin kai
+雪佛兰	xue fo lan
+雪佛兰乐驰	xue fo lan le chi
+雪铁龙	xue tie long
+雅阁	ya ge
+雅力士	ya li shi
+雅绅特	ya shen te
+亚星客车	ya xing ke che
+扬子汽车	yang zi qi che
+颐达	yi da
+伊兰特	yi lan te
+伊兰特悦动	yi lan te yue dong
+一汽奥迪	yi qi ao di
+一汽奔腾	yi qi ben teng
+一汽大发	yi qi da fa
+一汽大众	yi qi da zhong
+一汽丰田	yi qi feng tian
+一汽红塔	yi qi hong ta
+一汽佳宝	yi qi jia bao
+一汽解放	yi qi jie fang
+一汽马自达	yi qi ma zi da
+一汽太湖	yi qi tai hu
+一拖	yi tuo
+依维柯	yi wei ke
+英菲尼迪	ying fei ni di
+御品	yu pin
+宇通客车	yu tong ke che
+原动力	yuan dong li
+悦动	yue dong
+跃进	yue jin
+云雀	yun que
+郑州日产	zheng zhou ri chan
+中华	zhong hua
+中顺	zhong shun
+众泰	zhong tai
+中通客车	zhong tong ke che
+中兴汽车	zhong xing qi che
+中誉客车	zhong yu ke che

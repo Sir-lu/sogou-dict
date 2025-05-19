@@ -1,0 +1,178 @@
+奥德赛	ao de sai
+半蹲	ban dun
+扳手	ban shou
+扳子	ban zi
+变换重心	bian huan zhong xin
+侧蹬	ce deng
+茶壶	cha hu
+茶壶跳	cha hu tiao
+场地世界速滑锦标赛	chang di shi jie su hua jin biao sai
+穿钉	chuan ding
+大工第一刹手	da gong di yi cha shou
+单脚	dan jiao
+单脚单桩转	dan jiao dan zhuang zhuan
+单脚翻刃	dan jiao fan ren
+单脚内刃转	dan jiao nei ren zhuan
+单脚刹	dan jiao sha
+单脚外刃转	dan jiao wai ren zhuan
+单轮	dan lun
+单轮茶壶	dan lun cha hu
+单轮单桩转	dan lun dan zhuang zhuan
+单轮倒茶壶	dan lun dao cha hu
+单轮倒咖啡壶	dan lun dao ka fei hu
+单轮后向	dan lun hou xiang
+单轮后转前	dan lun hou zhuan qian
+单轮咖啡壶	dan lun ka fei hu
+单轮类	dan lun lei
+单轮连续变向	dan lun lian xu bian xiang
+单轮连续转向	dan lun lian xu zhuan xiang
+单轮前向	dan lun qian xiang
+单轮前转后	dan lun qian zhuan hou
+单轮刹	dan lun sha
+单轮天鹅	dan lun tian e
+单轮天鹅转	dan lun tian e zhuan
+单排	dan pai
+单排轮滑	dan pai lun hua
+单排轮滑鞋	dan pai lun hua xie
+单排轮轮滑	dan pai lun lun hua
+单排轮轮滑技术	dan pai lun lun hua ji shu
+单排轮轮滑球世界锦标赛	dan pai lun lun hua qiu shi jie jin biao sai
+单刹	dan sha
+单桩	dan zhuang
+单桩转	dan zhuang zhuan
+倒八	dao ba
+倒茶壶	dao cha hu
+倒茶壶跳	dao cha hu tiao
+倒单脚	dao dan jiao
+刀架	dao jia
+倒剪	dao jian
+倒咖啡壶	dao ka fei hu
+倒咖啡壶跳	dao ka fei hu tiao
+倒尼尔森	dao ni er sen
+倒蛇	dao she
+倒天国	dao tian guo
+的动力	de dong li
+等级表	deng ji biao
+第一刹手	di yi cha shou
+动态平衡	dong tai ping heng
+动作	dong zuo
+对抗性	dui kang xing
+蹲坐类	dun zuo lei
+翻刃	fan ren
+疯狂轮滑阵线	feng kuang lun hua zhen xian
+公路速滑世界锦标赛	gong lu su hua shi jie jin biao sai
+弓刹	gong sha
+固定脚踝	gu ding jiao huai
+国际轮滑联合会	guo ji lun hua lian he hui
+过桩	guo zhuang
+过桩转	guo zhuang zhuan
+旱冰运动	han bing yun dong
+横向用力	heng xiang yong li
+后弓刹	hou gong sha
+护住踝骨	hu zhu huai gu
+画八	hua ba
+滑行方法	hua xing fang fa
+滑行基础	hua xing ji chu
+滑行技术	hua xing ji shu
+花样轮滑	hua yang lun hua
+花样轮滑鞋	hua yang lun hua xie
+会服	hui fu
+肌肉力量	ji rou li liang
+极限	ji xian
+极限轮滑	ji xian lun hua
+劲道	jin dao
+竞赛项目	jing sai xiang mu
+竞争性	jing zheng xing
+咖啡壶	ka fei hu
+咖啡壶跳	ka fei hu tiao
+练习方法	lian xi fang fa
+溜溜	liu liu
+轮滑	lun hua
+轮滑爱好者	lun hua ai hao zhe
+轮滑包	lun hua bao
+轮滑场	lun hua chang
+轮滑球	lun hua qiu
+轮滑鞋	lun hua xie
+轮滑运动	lun hua yun dong
+轮滑知识	lun hua zhi shi
+轮子	lun zi
+玛丽	ma li
+玛丽刹	ma li sha
+玛丽转	ma li zhuan
+蒙特勒	meng te le
+米高	mi gao
+墨西哥	mo xi ge
+墨西哥人	mo xi ge ren
+内胆	nei dan
+内规刹	nei gui sha
+内蟹	nei xie
+尼尔森	ni er sen
+攀藤	pan teng
+飘移	piao yi
+漂移	piao yi
+飘移类	piao yi lei
+漂移类	piao yi lei
+平地花式	ping di hua shi
+平衡能力	ping heng neng li
+平花	ping hua
+其他类	qi ta lei
+趣味性	qu wei xing
+刹车	sha che
+上鞋	shang xie
+上桩	shang zhuang
+伸屈动作	shen qu dong zuo
+刷街	shua jie
+刷星海	shua xing hai
+双脚转	shuang jiao zhuan
+双轮内蟹	shuang lun nei xie
+双轮装	shuang lun zhuang
+双排	shuang pai
+双排轮	shuang pai lun
+双排轮滑	shuang pai lun hua
+双排轮滑鞋	shuang pai lun hua xie
+双排轮轮滑鞋	shuang pai lun lun hua xie
+双刹	shuang sha
+四轮溜冰运动	si lun liu bing yun dong
+速度轮滑	su du lun hua
+速度轮滑鞋	su du lun hua xie
+速桩	su zhuang
+所罗门	suo luo men
+体育项目	ti yu xiang mu
+提踵	ti zhong
+天鹅	tian e
+天鹅蟹	tian e xie
+天鹅转	tian e zhuan
+天国	tian guo
+跳跃类	tiao yue lei
+外规刹	wai gui sha
+沃尔特	wo er te
+向侧蹬	xiang ce deng
+向侧用力	xiang ce yong li
+小黄箱	xiao huang xiang
+小天鹅	xiao tian e
+鞋帮	xie bang
+鞋腰	xie yao
+休闲	xiu xian
+休闲轮滑	xiu xian lun hua
+旋二	xuan er
+旋二加强版	xuan er jia qiang ban
+旋风二号	xuan feng er hao
+旋风二号加强版	xuan feng er hao jia qiang ban
+选择方法	xuan ze fang fa
+旋转类	xuan zhuan lei
+学习轮滑	xue xi lun hua
+意大利	yi da li
+意大利人	yi da li ren
+移动重心	yi dong zhong xin
+圆规刹	yuan gui sha
+在滑行中	zai hua xing zhong
+在运动中	zai yun dong zhong
+掌握平衡	zhang wo ping heng
+正剪	zheng jian
+正确蹲姿	zheng que dun zi
+正蛇	zheng she
+正鱼	zheng yu
+轴承	zhou cheng
+竹炭	zhu tan
+桩点	zhuang dian
+桩上	zhuang shang

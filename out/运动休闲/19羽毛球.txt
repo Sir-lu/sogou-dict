@@ -1,0 +1,79 @@
+波萨那	bo sa na
+超身球	chao shen qiu
+陈金	chen jin
+低手击球	di shou ji qiu
+发高远球	fa gao yuan qiu
+发平球	fa ping qiu
+发球	fa qiu
+发球次序	fa qiu ci xu
+发球方	fa qiu fang
+发球区	fa qiu qu
+发球权	fa qiu quan
+发深球	fa shen qiu
+反拍	fan pai
+防守反击	fang shou fan ji
+分界线	fen jie xian
+盖德	gai de
+高手击球	gao shou ji qiu
+过渡球	guo du qiu
+国际系列大奖赛	guo ji xi lie da jiang sai
+黄综翰	huang zong han
+挥拍	hui pai
+回球	hui qiu
+混合双打	hun he shuang da
+夹发针球	jia fa zhen qiu
+蒋燕皎	jiang yan jiao
+交换发球区	jiao huan fa qiu qu
+接发球	jie fa qiu
+警戒线	jing jie xian
+扣球	kou qiu
+扣网前球	kou wang qian qiu
+快平球	kuai ping qiu
+拉斯姆森	la si mu sen
+李龙大	li long da
+李宗伟	li zong wei
+连击	lian ji
+连续扣杀	lian xu kou sha
+林丹	lin dan
+卢兰	lu lan
+轮换位置	lun huan wei zhi
+男子单打	nan zi dan da
+男子双打	nan zi shuang da
+男子团体	nan zi tuan ti
+内开球线	nei kai qiu xian
+内维尔	nei wei er
+女子单打	nv zi dan da
+女子双打	nv zi shuang da
+女子团体	nv zi tuan ti
+女子羽毛球单打	nv zi yu mao qiu dan da
+佩尔森	pei er sen
+皮红艳	pi hong yan
+朴成焕	piao cheng huan
+平抽球	ping chou qiu
+平高球	ping gao qiu
+轻吊球	qing diao qiu
+全英羽毛球锦标赛	quan ying yu mao qiu jin biao sai
+阮进明	ruan jin ming
+世界杯羽毛球赛	shi jie bei yu mao qiu sai
+世界羽毛球锦标赛	shi jie yu mao qiu jin biao sai
+试球	shi qiu
+苏迪曼杯	su di man bei
+汤姆斯杯赛	tang mu si bei sai
+陶菲克	tao fei ke
+外开球线	wai kai qiu xian
+王晨	wang chen
+王琳	wang lin
+网前球	wang qian qiu
+王仪涵	wang yi han
+谢杏芳	xie xing fang
+一发球员	yi fa qiu yuan
+右半场	you ban chang
+尤伯杯赛	you bo bei sai
+羽毛	yu mao
+羽毛球场	yu mao qiu chang
+羽毛球混合双打	yu mao qiu hun he shuang da
+羽毛球拍	yu mao qiu pai
+正拍	zheng pai
+重发球	zhong fa qiu
+周蜜	zhou mi
+左半场	zuo ban chang

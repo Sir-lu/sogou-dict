@@ -1,0 +1,239 @@
+白带	bai dai
+白黄带	bai huang dai
+摆踢	bai ti
+百折不屈	bai zhe bu qu
+抱歉	bao qian
+背肌	bei ji
+背身整理道服	bei shen zheng li dao fu
+裁判	cai pan
+参加比赛	can jia bi sai
+侧滑步	ce hua bu
+侧踢	ce ti
+撤步	che bu
+成人组	cheng ren zu
+大方靶	da fang ba
+大跆拳道协会	da tai quan dao xie hui
+单手刀	dan shou dao
+道场	dao chang
+道服	dao fu
+道通天下	dao tong tian xia
+道主	dao zhu
+的部位	de bu wei
+的距离	de ju li
+的姿势	de zi shi
+地跆	di tai
+垫步	dian bu
+电子护具	dian zi hu ju
+段位	duan wei
+反复练习	fan fu lian xi
+反横踢	fan heng ti
+反击横踢后踢	fan ji heng ti hou ti
+反抡踢	fan lun ti
+反面技法	fan mian ji fa
+反手俯卧撑	fan shou fu wo cheng
+反应	fan ying
+反应速度	fan ying su du
+防守	fang shou
+飞踢	fei ti
+俯卧撑	fu wo cheng
+高丽	gao li
+搁挡	ge dang
+格挡	ge dang
+各种腿法	ge zhong tui fa
+公斤级比赛	gong jin ji bi sai
+公斤级冠军	gong jin ji guan jun
+勾踢	gou ti
+贯手	guan shou
+国际跆拳道联盟	guo ji tai quan dao lian meng
+国技院	guo ji yuan
+国家队	guo jia dui
+国家体育总局	guo jia ti yu zong ju
+汉水	han shui
+汉武馆	han wu guan
+黑带	hei dai
+横踢	heng ti
+横踢接双飞接后踢	heng ti jie shuang fei jie hou ti
+红带	hong dai
+红黑带	hong hei dai
+红蓝带	hong lan dai
+洪镇宗	hong zhen zong
+后方单手抓	hou fang dan shou zhua
+后方肩部抓	hou fang jian bu zhua
+后方两手抓	hou fang liang shou zhua
+后弓步	hou gong bu
+后滑步	hou hua bu
+后踢	hou ti
+后旋踢	hou xuan ti
+护裆	hu dang
+护具	hu ju
+护身倒法	hu shen dao fa
+护手	hu shou
+护头	hu tou
+护腿	hu tui
+护胸	hu xiong
+滑步	hua bu
+换步	huan bu
+黄带	huang dai
+黄绿带	huang lv dai
+回位动作	hui wei dong zuo
+回旋踢	hui xuan ti
+级位	ji wei
+加速	jia su
+肩部抓正面打	jian bu zhua zheng mian da
+讲德院	jiang de yuan
+脚靶	jiao ba
+脚背	jiao bei
+脚步动作准备	jiao bu dong zuo zhun bei
+脚跟底部	jiao gen di bu
+脚后跟	jiao hou gen
+脚后掌	jiao hou zhang
+教练	jiao lian
+脚前掌	jiao qian zhang
+脚踢	jiao ti
+脚踢时	jiao ti shi
+脚趾	jiao zhi
+接下劈	jie xia pi
+金刚	jin gang
+进攻	jin gong
+进攻时	jin gong shi
+晋级	jin ji
+金顺培	jin shun pei
+敬礼	jing li
+抗击打	kang ji da
+克己	ke ji
+昆明跆拳道协会	kun ming tai quan dao xie hui
+蓝带	lan dai
+蓝红带	lan hong dai
+李承琓	li cheng wan
+李教允	li jiao yun
+李今洪	li jin hong
+力量	li liang
+李龙雨	li long yu
+立卧撑跳	li wo cheng tiao
+礼仪	li yi
+李永变	li yong bian
+立正	li zheng
+廉耻	lian chi
+练习方法	lian xi fang fa
+两头起	liang tou qi
+抡踢	lun ti
+绿带	lv dai
+绿蓝带	lv lan dai
+马步	ma bu
+马步冲拳	ma bu chong quan
+木板	mu ban
+内格挡	nei ge dang
+你好	ni hao
+品势	pin shi
+平原	ping yuan
+前弓步	qian gong bu
+前滑步	qian hua bu
+前脚反勾踢	qian jiao fan gou ti
+前上踢	qian shang ti
+前踢	qian ti
+前腿横踢	qian tui heng ti
+前腿下劈	qian tui xia pi
+前跃步	qian yue bu
+青涛馆	qing tao guan
+邱波	qiu bo
+拳卧撑	quan wo cheng
+忍耐	ren nai
+散打	san da
+三飞踢接后摆腿	san fei ti jie hou bai tui
+沙袋	sha dai
+上步	shang bu
+上格挡	shang ge dang
+上踢	shang ti
+稍息	shao xi
+世界级比赛	shi jie ji bi sai
+世界级跆拳道比赛	shi jie ji tai quan dao bi sai
+世界跆拳道联盟	shi jie tai quan dao lian meng
+十进	shi jin
+世锦赛	shi jin sai
+实战	shi zhan
+实战中	shi zhan zhong
+手刀	shou dao
+手刀内格挡	shou dao nei ge dang
+手刀外格挡	shou dao wai ge dang
+双手刀	shuang shou dao
+松武馆	song wu guan
+速度和高度	su du he gao du
+所处位置	suo chu wei zhi
+太白	tai bai
+太极八章	tai ji ba zhang
+太极二章	tai ji er zhang
+太极六章	tai ji liu zhang
+太极七章	tai ji qi zhang
+太极三章	tai ji san zhang
+太极四章	tai ji si zhang
+太极五章	tai ji wu zhang
+太极一章	tai ji yi zhang
+太极章至太极章	tai ji zhang zhi tai ji zhang
+跆拳道	tai quan dao
+跆拳道精神	tai quan dao jing shen
+跆拳道协会	tai quan dao xie hui
+套路	tao lu
+特技木板	te ji mu ban
+腾空横踢	teng kong heng ti
+腾空后旋	teng kong hou xuan
+腾空交替前踢	teng kong jiao ti qian ti
+腾空抡踢	teng kong lun ti
+踢的力量	ti de li liang
+踢法	ti fa
+踢击	ti ji
+踢击动作	ti ji dong zuo
+天拳	tian quan
+跳动踢	tiao dong ti
+跳换步	tiao huan bu
+退场	tui chang
+腿法	tui fa
+外格挡	wai ge dang
+威力木板	wei li mu ban
+吾道馆	wu dao guan
+武德馆	wu de guan
+下格挡	xia ge dang
+下劈	xia pi
+下踢	xia ti
+向国旗敬礼	xiang guo qi jing li
+向后转	xiang hou zhuan
+向右转	xiang you zhuan
+向左转	xiang zuo zhuan
+斜上踢	xie shang ti
+协调	xie tiao
+谢谢	xie xie
+行礼	xing li
+旋风踢	xuan feng ti
+旋风踢接后踢	xuan feng ti jie hou ti
+玄钟明	xuan zhong ming
+严云奎	yan yun kui
+仰卧起坐	yang wo qi zuo
+腰带	yao dai
+一般使用	yi ban shi yong
+一如	yi ru
+右站势	you zhan shi
+增加	zeng jia
+站立踢	zhan li ti
+彰武馆	zhang wu guan
+正道馆	zheng dao guan
+整理道服	zheng li dao fu
+正面技法	zheng mian ji fa
+正手俯卧撑	zheng shou fu wo cheng
+正站势	zheng zhan shi
+智道馆	zhi dao guan
+指卧撑	zhi wo cheng
+中国跆拳道协会	zhong guo tai quan dao xie hui
+中国武术	zhong guo wu shu
+助跑踢	zhu pao ti
+转动	zhuan dong
+转身	zhuan shen
+转身横踢	zhuan shen heng ti
+转身后踢	zhuan shen hou ti
+转身抡踢	zhuan shen lun ti
+转身踢	zhuan shen ti
+准备	zhun bei
+准备姿势	zhun bei zi shi
+自卫术	zi wei shu
+足刀	zu dao
+左右各	zuo you ge
+左右腿蹲起	zuo you tui dun qi
+左站势	zuo zhan shi

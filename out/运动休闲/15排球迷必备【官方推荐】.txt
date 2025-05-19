@@ -1,0 +1,226 @@
+保护扣球	bao hu kou qiu
+背传	bei chuan
+背飞	bei fei
+背快球	bei kuai qiu
+背溜	bei liu
+变步	bian bu
+边跟进	bian gen jin
+变线扣球	bian xian kou qiu
+变向起跳	bian xiang qi tiao
+标志杆	biao zhi gan
+步法	bu fa
+补位	bu wei
+擦网球	ca wang qiu
+策略	ce lue
+插上二传	cha shang er chuan
+长距离	chang ju li
+场区端线	chang qu duan xian
+场上队长	chang shang dui zhang
+超手扣球	chao shou kou qiu
+持球	chi qiu
+重叠拦网	chong die lan wang
+重叠梯次	chong die ti ci
+抽签	chou qian
+处理球	chu li qiu
+触网	chu wang
+打法	da fa
+大力发球	da li fa qiu
+打强攻	da qiang gong
+打手出界	da shou chu jie
+单人拦网	dan ren lan wang
+挡球技术	dang qiu ji shu
+第一裁判员	di yi cai pan yuan
+垫球	dian qiu
+吊球	diao qiu
+定位扣球	ding wei kou qiu
+独特打法	du te da fa
+短平快扣球	duan ping kuai kou qiu
+短平快球	duan ping kuai qiu
+对抗性	dui kang xing
+多变	duo bian
+二传	er chuan
+二传球	er chuan qiu
+二传手	er chuan shou
+发动攻击	fa dong gong ji
+发飘球	fa piao qiu
+发球	fa qiu
+发球擦网	fa qiu ca wang
+发球得分	fa qiu de fen
+发球方法	fa qiu fang fa
+发球区	fa qiu qu
+发球权	fa qiu quan
+反手发球	fan shou fa qiu
+防守技术	fang shou ji shu
+防守判断	fang shou pan duan
+防守战术	fang shou zhan shu
+风格打法	feng ge da fa
+副攻	fu gong
+副攻手	fu gong shou
+高打	gao da
+高打强攻	gao da qiang gong
+高单人拦网	gao dan ren lan wang
+高点	gao dian
+高点吊球	gao dian diao qiu
+高吊球	gao diao qiu
+高度技巧	gao du ji qiao
+高度排球	gao du pai qiu
+高跳	gao tiao
+个人战术	ge ren zhan shu
+个人战术运用	ge ren zhan shu yun yong
+攻防两重性	gong fang liang chong xing
+攻击手	gong ji shou
+攻手	gong shou
+勾手发球	gou shou fa qiu
+勾手扣球	gou shou kou qiu
+国际排球协会	guo ji pai qiu xie hui
+过网击球	guo wang ji qiu
+横滚动	heng gun dong
+后交叉	hou jiao cha
+后交叉进攻	hou jiao cha jin gong
+后排防守	hou pai fang shou
+后排进攻	hou pai jin gong
+后排右	hou pai you
+后排中	hou pai zhong
+后排纵深进攻	hou pai zong shen jin gong
+后排左	hou pai zuo
+互相促进	hu xiang cu jin
+互相掩护	hu xiang yan hu
+换发球	huan fa qiu
+换位进攻	huan wei jin gong
+机会球	ji hui qiu
+技巧派	ji qiao pai
+技巧性	ji qiao xing
+击球点	ji qiu dian
+集体拦网	ji ti lan wang
+集体性	ji ti xing
+机械分工	ji xie fen gong
+加强突破能力	jia qiang tu po neng li
+夹塞	jia sai
+肩滚翻	jian gun fan
+交叉进攻	jiao cha jin gong
+交叉掩护	jiao cha yan hu
+接发球	jie fa qiu
+接扣球	jie kou qiu
+界内	jie nei
+界外	jie wai
+接应	jie ying
+接应二传	jie ying er chuan
+进攻战术	jin gong zhan shu
+近体快球	jin ti kuai qiu
+近网传球	jin wang chuan qiu
+近网扣球	jin wang kou qiu
+救球	jiu qiu
+救入网球	jiu ru wang qiu
+举球	ju qiu
+举球员	ju qiu yuan
+决胜局	jue sheng ju
+空当	kong dang
+空间差	kong jian cha
+扣快球	kou kuai qiu
+扣拦矛盾	kou lan mao dun
+扣球	kou qiu
+扣杀得分	kou sha de fen
+扣手	kou shou
+扣探头球	kou tan tou qiu
+扣远网球	kou yuan wang qiu
+快变	kuai bian
+快高	kuai gao
+快攻	kuai gong
+快攻战术	kuai gong zhan shu
+拦网	lan wang
+拦网成功	lan wang cheng gong
+拦网得分	lan wang de fen
+力量加技巧	li liang jia ji qiao
+力量派	li liang pai
+力量排球	li liang pai qiu
+立体进攻	li ti jin gong
+立体战术	li ti zhan shu
+连击	lian ji
+连跳技术	lian tiao ji shu
+两重性	liang chong xing
+两次球	liang ci qiu
+两线分化	liang xian fen hua
+临场情况	lin chang qing kuang
+灵活多样	ling huo duo yang
+轮转错误	lun zhuan cuo wu
+轮转得分	lun zhuan de fen
+马蹄形	ma ti xing
+鸣哨	ming shao
+排球	pai qiu
+排球场	pai qiu chang
+排球技术	pai qiu ji shu
+排球矢量图	pai qiu shi liang tu
+排球网	pai qiu wang
+排球柱	pai qiu zhu
+排纵深地带	pai zong shen di dai
+配合排球	pei he pai qiu
+平扣后区	ping kou hou qu
+前飞	qian fei
+前交叉	qian jiao cha
+前排活点进攻	qian pai huo dian jin gong
+前排进攻掩护	qian pai jin gong yan hu
+前排右	qian pai you
+前排中	qian pai zhong
+前排左	qian pai zuo
+前沿加纵深	qian yan jia zong shen
+强攻	qiang gong
+球区	qiu qu
+全面性	quan mian xing
+群众性	qun zhong xing
+人盯区域	ren ding qu yu
+人盯人	ren ding ren
+任意球员	ren yi qiu yuan
+赛前准备	sai qian zhun bei
+上场阵容	shang chang zhen rong
+上手传球	shang shou chuan qiu
+伸臂	shen bi
+时间差	shi jian cha
+时间差扣球	shi jian cha kou qiu
+失误率	shi wu lv
+手后仰拦网	shou hou yang lan wang
+守位	shou wei
+双方触球	shuang fang chu qiu
+双方犯规	shuang fang fan gui
+双人拦网	shuang ren lan wang
+四次击球	si ci ji qiu
+死角	si jiao
+跳起二传	tiao qi er chuan
+突破能力	tu po neng li
+托球	tuo qiu
+托球员	tuo qiu yuan
+网前防守	wang qian fang shou
+网前进攻	wang qian jin gong
+围绕	wei rao
+位置差	wei zhi cha
+位置错误	wei zhi cuo wu
+吸取快攻	xi qu kuai gong
+下手传球	xia shou chuan qiu
+限制线	xian zhi xian
+限制线后扣球	xian zhi xian hou kou qiu
+斜线扣球	xie xian kou qiu
+斜线扣杀	xie xian kou sha
+心跟进	xin gen jin
+压线球	ya xian qiu
+亚洲排球联合会	ya zhou pai qiu lian he hui
+严密拦网	yan mi lan wang
+佯攻	yang gong
+一传	yi chuan
+隐蔽站位	yin bi zhan wei
+鱼跃救球	yu yue jiu qiu
+远程飘球	yuan cheng piao qiu
+远网传球	yuan wang chuan qiu
+远网进攻	yuan wang jin gong
+越中线	yue zhong xian
+展肩	zhan jian
+直线扣球	zhi xian kou qiu
+直线扣杀	zhi xian kou sha
+中国排球	zhong guo pai qiu
+主攻	zhu gong
+主攻手	zhu gong shou
+助跑摆臂	zhu pao bai bi
+助跑起跳	zhu pao qi tiao
+转手转腕	zhuan shou zhuan wan
+专位分工	zhuan wei fen gong
+专职防守的球员	zhuan zhi fang shou de qiu yuan
+自由人	zi you ren
+坐式排球	zuo shi pai qiu

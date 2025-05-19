@@ -1,0 +1,202 @@
+八轴	ba zhou
+白乳胶	bai ru jiao
+板机	ban ji
+比例	bi li
+玻璃钢	bo li gang
+侧飞	ce fei
+车模	che mo
+充电	chong dian
+充电倍数	chong dian bei shu
+充电器	chong dian qi
+穿云	chuan yun
+大桨	da jiang
+大疆	da jiang
+怠速油针	dai su you zhen
+倒飞	dao fei
+刀锋	dao feng
+德天	de tian
+电池	dian chi
+电动	dian dong
+点火器	dian huo qi
+电机	dian ji
+电流	dian liu
+电调	dian tiao
+电压	dian ya
+电源	dian yuan
+吊机	diao ji
+定向天线	ding xiang tian xian
+动力	dong li
+动力伞	dong li san
+动作	dong zuo
+舵机	duo ji
+多旋翼	duo xuan yi
+多轴	duo zhou
+发动机	fa dong ji
+返航	fan hang
+放电	fang dian
+放电倍数	fang dian bei shu
+方向舵	fang xiang duo
+飞机	fei ji
+飞控	fei kong
+飞艇	fei ting
+飞行	fei xing
+分电板	fen dian ban
+复合	fu he
+复合材料	fu he cai liao
+负螺距	fu luo ju
+副翼	fu yi
+高速油针	gao su you zhen
+高效桨	gao xiao jiang
+跟拍	gen pai
+功率	gong lv
+固定翼	gu ding yi
+涵道	han dao
+航空模型	hang kong mo xing
+航模	hang mo
+航拍	hang pai
+赫兹	he zi
+横滚	heng gun
+横轴	heng zhou
+华科尔	hua ke er
+花式飞行	hua shi fei xing
+化油器	hua you qi
+环氧胶	huan yang jiao
+火花塞	huo hua sai
+极飞	ji fei
+几米螺丝	ji mi luo si
+机身	ji shen
+机翼	ji yi
+机翼前缘	ji yi qian yuan
+甲醇机	jia chun ji
+加油泵	jia you beng
+桨罩	jiang zhao
+接收机	jie shou ji
+接头	jie tou
+精灵	jing ling
+快干胶	kuai gan jiao
+拉杆	la gan
+拉力	la li
+拉烟	la yan
+拉烟器	la yan qi
+乐迪	le di
+锂电	li dian
+锂电池	li dian chi
+练习机	lian xi ji
+磷酸铁锂电	lin suan tie li dian
+零度	ling du
+领航	ling hang
+六轴	liu zhou
+轮毂	lun gu
+轮轴	lun zhou
+螺距	luo ju
+螺丝	luo si
+螺丝滚	luo si gun
+螺丝胶	luo si jiao
+螺旋桨	luo xuan jiang
+铝合金	lv he jin
+模拟器	mo ni qi
+模友	mo you
+木桨	mu jiang
+耐摔板	nai shuai ban
+内六方	nei liu fang
+尼龙桨	ni long jiang
+扭力滚	niu li gun
+排气管	pai qi guan
+平板天线	ping ban tian xian
+平飞	ping fei
+平衡板	ping heng ban
+平衡充	ping heng chong
+平凸	ping tu
+迫降	po jiang
+启动机	qi dong ji
+起落架	qi luo jia
+汽油车	qi you che
+汽油机	qi you ji
+前拉	qian la
+前拉机	qian la ji
+前缘	qian yuan
+球头	qiu tou
+曲线	qu xian
+全复合	quan fu he
+热缩管	re suo guan
+容量	rong liang
+润滑油	run hua you
+塞斯纳	sai si na
+赛斯纳	sai si na
+三角翼	san jiao yi
+三叶	san ye
+三叶桨	san ye jiang
+三轴	san zhou
+上反角	shang fan jiao
+蛇滚	she gun
+升降舵	sheng jiang duo
+十字盘	shi zi pan
+收放起落架	shou fang qi luo jia
+收油	shou you
+数传	shu chuan
+四弗	si fu
+四弗管	si fu guan
+四轴	si zhou
+锁尾	suo wei
+碳纤	tan xian
+碳纤棒	tan xian bang
+碳纤桨	tan xian jiang
+碳纤条	tan xian tiao
+碳纤罩	tan xian zhao
+特技	te ji
+特技机	te ji ji
+天地飞	tian di fei
+天飞	tian fei
+铁锂	tie li
+头罩	tou zhao
+图传	tu chuan
+推重比	tui zhong bi
+陀螺仪	tuo luo yi
+尾管	wei guan
+尾桨	wei jiang
+尾推	wei tui
+尾翼	wei yi
+涡喷	wo pen
+无人机	wu ren ji
+无刷电机	wu shua dian ji
+无刷电调	wu shua dian tiao
+下反角	xia fan jue
+下拉角	xia la jiao
+线操纵	xian cao zong
+限高	xian gao
+限远	xian yuan
+橡胶	xiang jiao
+橡胶轮	xiang jiao lun
+像真机	xiang zhen ji
+斜盘	xie pan
+续航	xu hang
+旋翼机	xuan yi ji
+旋翼头	xuan yi tou
+雅克	ya ke
+烟油	yan you
+遥控距离	yao kong ju li
+遥控器	yao kong qi
+腰推	yao tui
+翼头	yi tou
+翼型	yi xing
+油动	you dong
+油管	you guan
+右拉角	you la jiao
+油滤	you lv
+油门	you men
+油门曲线	you men qu xian
+油门锁定	you men suo ding
+油门行程	you men xing cheng
+油针	you zhen
+炸机	zha ji
+正负螺距	zheng fu luo ju
+整流罩	zheng liu zhao
+正螺距	zheng luo ju
+直升机	zhi sheng ji
+指数	zhi shu
+重锤	zhong chui
+重心	zhong xin
+主轴	zhu zhou
+自动驾驶仪	zi dong jia shi yi
+座舱	zuo cang
+座舱罩	zuo cang zhao

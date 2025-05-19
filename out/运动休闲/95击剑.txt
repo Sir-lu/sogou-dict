@@ -1,0 +1,52 @@
+裁判员	cai pan yuan
+重新	chong xin
+重新进攻	chong xin jin gong
+从新进攻	cong xin jin gong
+错误动作	cuo wu dong zuo
+打开对手的剑	da kai dui shou de jian
+电动花剑	dian dong hua jian
+电动佩剑	dian dong pei jian
+电动重剑	dian dong zhong jian
+躲闪	duo shan
+反攻	fan gong
+防守	fang shou
+防守成功	fang shou cheng gong
+防守者一方被击中	fang shou zhe yi fang bei ji zhong
+复杂进攻	fu za jin gong
+护面	hu mian
+护手盘	hu shou pan
+花剑护面	hua jian hu mian
+还击	huan ji
+还击不及时	huan ji bu ji shi
+缓慢迟钝	huan man chi dun
+击打	ji da
+击剑时间	ji jian shi jian
+击剑线	ji jian xian
+假动作	jia dong zuo
+简单还击	jian dan huan ji
+简单进攻	jian dan jin gong
+进攻者一方被击中	jin gong zhe yi fang bei ji zhong
+连续	lian xu
+连续进攻	lian xu jin gong
+判断	pan duan
+佩剑护面	pei jian hu mian
+佩剑头线	pei jian tou xian
+劈刺	pi ci
+取消	qu xiao
+实战姿势	shi zhan zi shi
+收回手臂	shou hui shou bi
+收手	shou shou
+停顿	ting dun
+同时动作	tong shi dong zuo
+头线	tou xian
+相互击中	xiang hu ji zhong
+训练花剑	xun lian hua jian
+训练佩剑	xun lian pei jian
+训练重剑	xun lian zhong jian
+延续	yan xu
+延续进攻	yan xu jin gong
+优势	you shi
+犹豫	you yu
+犹豫不决	you yu bu jue
+重剑护面	zhong jian hu mian
+姿势	zi shi

@@ -1,0 +1,23 @@
+抱水	bao shui
+蝶泳	die yong
+高肘屈臂划水	gao zhou qu bi hua shui
+个人混合泳	ge ren hun he yong
+攻角	gong jiao
+后交叉配合	hou jiao cha pei he
+混合泳接力	hun he yong jie li
+竞技游泳	jing ji you yong
+空中移臂	kong zhong yi bi
+螺旋曲线鞭状下划	luo xuan qu xian bian zhuang xia hua
+螺旋曲线内划	luo xuan qu xian nei hua
+螺旋曲线上划	luo xuan qu xian shang hua
+前交叉配合	qian jiao cha pei he
+升力	sheng li
+升力推进力	sheng li tui jin li
+蛙泳	wa yong
+仰泳	yang yong
+迎角	ying jiao
+中交叉配合	zhong jiao cha pei he
+抓水	zhua shui
+自由泳	zi you yong
+自由泳接力	zi you yong jie li
+阻力推进力	zu li tui jin li

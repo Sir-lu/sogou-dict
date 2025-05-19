@@ -1,0 +1,204 @@
+暗流涌动	an liu yong dong
+黯月初升	an yue chu sheng
+半兽人	ban shou ren
+半仙	ban xian
+暴风捕手	bao feng bu shou
+暴乱	bao luan
+博学者	bo xue zhe
+茶艺师	cha yi shi
+唱票	chang piao
+唱诗男孩	chang shi nan hai
+城镇公告员	cheng zhen gong gao yuan
+魑魅	chi mei
+厨师	chu shi
+传教士	chuan jiao shi
+传奇角色	chuan qi jue se
+刺客	ci ke
+打更人	da geng ren
+呆瓜	dai gua
+饏餮	dan tie
+道士	dao shi
+地狱藏书员	di yu cang shu yuan
+店小二	dian xiao er
+典狱长	dian yu zhang
+调查员	diao cha yuan
+赌徒	du tu
+恶魔	e mo
+法官	fa guan
+方古	fang gu
+方士	fang shi
+风水师	feng shui shi
+疯子	feng zi
+佛教徒	fo jiao tu
+赶尸人	gan shi ren
+告密者	gao mi zhe
+哥布林	ge bu lin
+革命者	ge ming zhe
+工程师	gong cheng shi
+公爵夫人	gong jue fu ren
+共情者	gong qing zhe
+蛊雕	gu diao
+寡妇	gua fu
+怪咖	guai ka
+官方魔典	guan fang mo dian
+管家	guan jia
+官员	guan yuan
+贵族	gui zu
+国王	guo wang
+哈迪寂亚	ha di ji ya
+河伯	he bo
+和平主义者	he ping zhu yi zhe
+和尚	he shang
+黑帮	hei bang
+红唇女郎	hong chun nv lang
+华灯初上	hua deng chu shang
+混沌	hun dun
+集骨者	ji gu zhe
+集石	ji shi
+畸形秀演员	ji xing xiu yan yuan
+间谍	jian die
+奸佞	jian ning
+僵怖	jiang bu
+将军	jiang jun
+教父	jiao fu
+叫花子	jiao hua zi
+教授	jiao shou
+解谜大师	jie mi da shi
+禁卫军	jin wei jun
+锦衣卫	jin yi wei
+精神病患者	jing shen bing huan zhe
+镜像双子	jing xiang shuang zi
+酒保	jiu bao
+酒鬼	jiu gui
+巨灵	ju ling
+绝世演出	jue shi yan chu
+军团	jun tuan
+咖啡师	ka fei shi
+恐惧之灵	kong ju zhi ling
+郎中	lang zhong
+理发师	li fa shi
+利维坦	li wei tan
+痢蛭	li zhi
+炼金术士	lian jin shu shi
+猎手	lie shou
+伶人	ling ren
+灵言师	ling yan shi
+流窎	liu diao
+落难少女	luo nan shao nv
+旅店老板	lv dian lao ban
+旅行者	lv xing zhe
+麻脸巫婆	ma lian wu po
+卖花女孩	mai hua nv hai
+莽夫	mang fu
+梦殒春宵	meng yun chun xiao
+魔鬼代言人	mo gui dai yan ren
+陌客	mo ke
+末日预言者	mo ri yu yan zhe
+魔术师	mo shu shi
+魔像	mo xiang
+男爵	nan jue
+逆臣	ni chen
+酿酒师	niang jiu shi
+弄臣	nong chen
+农夫	nong fu
+诺达鲺	nuo da shi
+女裁缝	nv cai feng
+女舍监	nv she jian
+女巫	nv wu
+判官	pan guan
+骗人精	pian ren jing
+普卡	pu ka
+乞丐	qi gai
+气球驾驶员	qi qiu jia shi yuan
+掮客	qian ke
+枪手	qiang shou
+窃窃私语	qie qie si yu
+窃贼	qie zei
+穷奇	qiong qi
+驱魔人	qu mo ren
+染钟楼谜团	ran zhong lou mi tuan
+入殓师	ru lian shi
+僧侣	seng lv
+沙巴洛斯	sha ba luo si
+煞星	sha xing
+赏金猎人	shang jin lie ren
+哨兵	shao bing
+神谕者	shen yu zhe
+圣洁之魂	sheng jie zhi hun
+圣徒	sheng tu
+士兵	shi bing
+侍臣	shi chen
+使节	shi jie
+食梦貘	shi meng mo
+侍女	shi nv
+食人族	shi ren zu
+失忆者	shi yi zhe
+守鸦人	shou ya ren
+守夜人	shou ye ren
+书生	shu sheng
+数学家	shu xue jia
+水手	shui shou
+说书人	shuo shu ren
+送葬者	song zang zhe
+梼杌	tao wu
+提名	ti ming
+提线木偶	ti xian mu ou
+提刑官	ti xing guan
+替罪羊	ti zui yang
+天使	tian shi
+投毒者	tou du zhe
+屠夫	tu fu
+图书管理员	tu shu guan li yuan
+外来者	wai lai zhe
+玩具匠	wan ju jiang
+亡骨魔	wang gu mo
+涡流	wo liu
+悟道者	wu dao zhe
+巫毒师	wu du shi
+无名之墓	wu ming zhi mu
+无上愉悦	wu shang yu yue
+舞蛇人	wu she ren
+无神论者	wu shen lun zhe
+舞狮人	wu shi ren
+洗脑师	xi nao shi
+洗衣妇	xi yi fu
+戏子	xi zi
+贤者	xian zhe
+小恶魔	xiao e mo
+小怪宝	xiao guai bao
+小精灵	xiao jing ling
+小提琴手	xiao ti qin shou
+心上人	xin shang ren
+行脚商	xing jiao shang
+熊孩子	xiong hai zi
+凶宅魅影	xiong zhai mei ying
+修补匠	xiu bu jiang
+学徒	xue tu
+巡山人	xun shan ren
+异端分子	yi duan fen zi
+异教领袖	yi jiao ling xiu
+艺术家	yi shu jia
+引路人	yin lu ren
+阴阳师	yin yang shi
+吟游诗人	yin you shi ren
+罂粟种植者	ying su zhong zhi zhe
+游园惊梦	you yuan jing meng
+渔夫	yu fu
+月之子	yue zhi zi
+杂技演员	za ji yan yuan
+杂耍艺人	za shua yi ren
+造谣者	zao yao zhe
+炸弹人	zha dan ren
+占卜师	zhan bu shi
+占星者	zhan xing zhe
+爪牙	zhao ya
+哲学家	zhe xue jia
+贞洁者	zhen jie zhe
+镇民	zhen min
+镇长	zhen zhang
+政客	zheng ke
+钟表匠	zhong biao jiang
+钟楼百科	zhong lou bai ke
+筑梦师	zhu meng shi
+主谋	zhu mou
+祖母	zu mu

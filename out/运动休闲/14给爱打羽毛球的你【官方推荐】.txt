@@ -1,0 +1,235 @@
+暗盘	an pan
+半蹲	ban dun
+半决赛	ban jue sai
+磅数	bang shu
+爆发力	bao fa li
+报分	bao fen
+爆冷	bao leng
+步法	bu fa
+蔡赟	cai yun
+持球	chi qiu
+抽球	chou qiu
+触地	chu di
+出界	chu jie
+处理球	chu li qiu
+触球	chu qiu
+穿线	chuan xian
+搓球	cuo qiu
+打比赛	da bi sai
+打法	da fa
+打球	da qiu
+打羽毛球	da yu mao qiu
+带球	dai qiu
+单打	dan da
+蹬地	deng di
+底角	di jiao
+低手击球	di shou ji qiu
+垫步	dian bu
+点杀	dian sha
+掉漆	diao qi
+吊球	diao qiu
+顶住	ding zhu
+短板	duan ban
+断线	duan xian
+对角	dui jiao
+对角线	dui jiao xian
+对垒	dui lei
+对练	dui lian
+对墙	dui qiang
+多拍	duo pai
+发高远球	fa gao yuan qiu
+发力	fa li
+发平球	fa ping qiu
+发球	fa qiu
+发球次序	fa qiu ci xu
+发球方	fa qiu fang
+发球区	fa qiu qu
+发球权	fa qiu quan
+发深球	fa shen qiu
+反拍	fan pai
+反手	fan shou
+防滑粉	fang hua fen
+防守	fang shou
+防守反击	fang shou fan ji
+分界线	fen jie xian
+分力	fen li
+分球	fen qiu
+封网	feng wang
+高手击球	gao shou ji qiu
+高远球	gao yuan qiu
+公开赛	gong kai sai
+攻守	gong shou
+勾球	gou qiu
+挂拍	gua pai
+过渡球	guo du qiu
+过线	guo xian
+横扫	heng sao
+横线	heng xian
+后摆	hou bai
+后侧	hou ce
+后场	hou chang
+后场高远球	hou chang gao yuan qiu
+后仰	hou yang
+还击	huan ji
+换线	huan xian
+挥拍	hui pai
+回球	hui qiu
+回弹	hui tan
+回中	hui zhong
+混合双打	hun he shuang da
+混双	hun shuang
+击出	ji chu
+击球	ji qiu
+击球点	ji qiu dian
+技术流	ji shu liu
+假动作	jia dong zuo
+夹发针球	jia fa zhen qiu
+加力	jia li
+捡球	jian qiu
+交叉步	jiao cha bu
+交换发球区	jiao huan fa qiu qu
+教练	jiao lian
+脚面	jiao mian
+接发球	jie fa qiu
+接球	jie qiu
+截杀	jie sha
+警戒线	jing jie xian
+开局	kai ju
+开球	kai qiu
+看球	kan qiu
+控球	kong qiu
+控制球	kong zhi qiu
+扣球	kou qiu
+扣杀	kou sha
+快平球	kuai ping qiu
+拉线	la xian
+拉直	la zhi
+连击	lian ji
+练球	lian qiu
+连杀	lian sha
+连续扣杀	lian xu kou sha
+轮换位置	lun huan wei zhi
+落点	luo dian
+男单	nan dan
+男双	nan shuang
+男团	nan tuan
+男子单打	nan zi dan da
+男子双打	nan zi shuang da
+男子团体	nan zi tuan ti
+内侧	nei ce
+内翻	nei fan
+内开球线	nei kai qiu xian
+内旋	nei xuan
+逆转	ni zhuan
+女单	nv dan
+女队	nv dui
+女双	nv shuang
+女子单打	nv zi dan da
+女子双打	nv zi shuang da
+女子团体	nv zi tuan ti
+女子羽毛球单打	nv zi yu mao qiu dan da
+欧锦赛	ou jin sai
+拍柄	pai bing
+拍打	pai da
+拍杆	pai gan
+拍框	pai kuang
+拍头	pai tou
+拍子	pai zi
+劈吊	pi diao
+劈杀	pi sha
+平抽球	ping chou qiu
+平高	ping gao
+平高球	ping gao qiu
+平衡点	ping heng dian
+平推	ping tui
+前场	qian chang
+抢攻	qiang gong
+抢球	qiang qiu
+轻吊球	qing diao qiu
+球包	qiu bao
+球场	qiu chang
+球服	qiu fu
+球馆	qiu guan
+球后	qiu hou
+球技	qiu ji
+球路	qiu lu
+球拍	qiu pai
+球手	qiu shou
+球速	qiu su
+球头	qiu tou
+球鞋	qiu xie
+球友	qiu you
+全运会	quan yun hui
+让球	rang qiu
+软木	ruan mu
+赛后	sai hou
+杀球	sha qiu
+伸直	shen zhi
+试打	shi da
+失利	shi li
+试球	shi qiu
+失误	shi wu
+手感	shou gan
+竖线	shu xian
+双打	shuang da
+说球	shuo qiu
+弹跳力	tan tiao li
+糖水拍	tang shui pai
+挑球	tiao qiu
+头重	tou zhong
+团体赛	tuan ti sai
+推球	tui qiu
+退赛	tui sai
+推压	tui ya
+拖垮	tuo kua
+外侧	wai ce
+外开球线	wai kai qiu xian
+外旋	wai xuan
+网前	wang qian
+网前球	wang qian qiu
+违例	wei li
+卫冕	wei mian
+问鼎	wen ding
+下压	xia ya
+相持	xiang chi
+小球	xiao qiu
+小组赛	xiao zu sai
+协调性	xie tiao xing
+斜线	xie xian
+新拍	xin pai
+新线	xin xian
+亚锦赛	ya jin sai
+压线	ya xian
+腰力	yao li
+一发球员	yi fa qiu yuan
+赢面	ying mian
+右半场	you ban chang
+羽联	yu lian
+羽毛球	yu mao qiu
+羽毛球场	yu mao qiu chang
+羽毛球队	yu mao qiu dui
+羽毛球混合双打	yu mao qiu hun he shuang da
+羽毛球拍	yu mao qiu pai
+羽拍	yu pai
+羽球	yu qiu
+羽人	yu ren
+预赛	yu sai
+羽坛	yu tan
+羽协	yu xie
+预选赛	yu xuan sai
+再拉	zai la
+站位	zhan wei
+站桩	zhan zhuang
+正拍	zheng pai
+正赛	zheng sai
+正手	zheng shou
+执教	zhi jiao
+重锤	zhong chui
+重发球	zhong fa qiu
+中杆	zhong gan
+中国羽毛球队	zhong guo yu mao qiu dui
+重扣	zhong kou
+中羽	zhong yu
+追分	zhui fen
+追平	zhui ping
+左半场	zuo ban chang

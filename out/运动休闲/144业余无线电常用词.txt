@@ -1,0 +1,27 @@
+被噪	bei zao
+测向	ce xiang
+差转	cha zhuan
+传日志	chuan ri zhi
+打比赛	da bi sai
+打卫星	da wei xing
+底噪	di zao
+电台	dian tai
+短波	duan bo
+端馈	duan kui
+基地台	ji di tai
+静噪	jing zao
+开关电源	kai guan dian yuan
+馈管	kui guan
+馈线	kui xian
+上差	shang cha
+手咪	shou mi
+手台	shou tai
+天馈	tian kui
+下差	xia cha
+线性电源	xian xing dian yuan
+信噪比	xin zao bi
+亚音	ya yin
+野架	ye jia
+中继	zhong ji
+驻波	zhu bo
+字头	zi tou

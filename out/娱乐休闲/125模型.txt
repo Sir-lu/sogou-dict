@@ -1,0 +1,104 @@
+安定面	an ding mian
+奥尔福	ao er fu
+巴尔沙	ba er sha
+板机	ban ji
+菜鸟	cai niao
+出段	chu duan
+垂尾	chui wei
+大比例固定翼	da bi li gu ding yi
+大脚	da jiao
+电池盒	dian chi he
+电动飞机	dian dong fei ji
+电动直升机	dian dong zhi sheng ji
+电热发动机	dian re fa dong ji
+动力系统	dong li xi tong
+对称翼型	dui chen yi xing
+舵机	duo ji
+舵机盘	duo ji pan
+发射机	fa she ji
+发射模块	fa she mo kuai
+帆船	fan chuan
+房车	fang che
+飞机模型	fei ji mo xing
+飞艇	fei ting
+飞行模拟器	fei xing mo ni qi
+飞翼	fei yi
+蜂窝结构	feng wo jie gou
+副翼	fu yi
+共轴双桨	gong zhou shuang jiang
+固定翼	gu ding yi
+挂车	gua che
+涵道	han dao
+航空博物馆	hang kong bo wu guan
+航空层板	hang kong ceng ban
+航天模型	hang tian mo xing
+好盈	hao ying
+虎蛾	hu e
+花式飞行	hua shi fei xing
+缓解	huan jie
+火车模型	huo che mo xing
+甲醇机	jia chun ji
+接收机	jie shou ji
+襟翼	jin yi
+京商	jing shang
+竞时	jing shi
+竞速	jing su
+竞速机	jing su ji
+距离报警器	ju li bao jing qi
+开处	kai chu
+拉杆	la gan
+拉力线	la li xian
+雷虎	lei hu
+练习机	lian xi ji
+螺旋桨	luo xuan jiang
+脉喷发动机	mai pen fa dong ji
+美乐迪	mei yue di
+蒙皮	meng pi
+鸣笛	ming di
+模拟器	mo ni qi
+模型飞机	mo xing fei ji
+泡桐	pao tong
+飘带	piao dai
+平跑	ping pao
+平凸翼型	ping tu yi xing
+平尾	ping wei
+汽油机	qi you ji
+撒沙	sa sha
+三角翼	san jiao yi
+上单翼	shang dan yi
+上反角	shang fan jiao
+神龙模型	shen long mo xing
+双凸翼型	shuang tu yi xing
+双翼	shuang yi
+水上飞机	shui shang fei ji
+伺服	si fu
+特技	te ji
+调速	tiao su
+涂布油	tu bu you
+拓普	tuo pu
+尾推桨	wei tui jiang
+微型电直	wei xing dian zhi
+涡流	wo liu
+涡喷	wo pen
+无人机	wu ren ji
+无尾布局	wu wei bu ju
+熄火降落	xi huo jiang luo
+下单翼	xia dan yi
+线操纵	xian cao zong
+像真机	xiang zhen ji
+新手	xin shou
+新西达	xin xi da
+压燃发动机	ya ran fa dong ji
+亚拓	ya tuo
+遥控设备	yao kong she bei
+迎角	ying jiao
+油动飞机	you dong fei ji
+油动涵道	you dong han dao
+预热	yu re
+云衫	yun shan
+炸机	zha ji
+直机	zhi ji
+中单翼	zhong dan yi
+重心	zhong xin
+自旋翻	zi xuan fan
+自由飞	zi you fei

@@ -1,0 +1,159 @@
+安打	an da
+安全上垒	an quan shang lei
+败场	bai chang
+败投	bai tou
+棒球	bang qiu
+棒球场	bang qiu chang
+保送	bao song
+保送上垒	bao song shang lei
+暴投	bao tou
+本垒	ben lei
+本垒裁判	ben lei cai pan
+本垒打	ben lei da
+比赛停止球	bi sai ting zhi qiu
+变化球	bian hua qiu
+捕手	bu shou
+捕手面罩	bu shou mian zhao
+擦棒球	ca bang qiu
+残垒数	can lei shu
+场外球	chang wai qiu
+出局	chu ju
+出赛次数	chu sai ci shu
+触身球	chu shen qiu
+打带跑	da dai pao
+打点	da dian
+打击率	da ji lv
+打击手	da ji shou
+打击顺序	da ji shun xu
+打击位置	da ji wei zhi
+打空	da kong
+打席	da xi
+代打	dai da
+单手接球	dan shou jie qiu
+稻草人式	dao cao ren shi
+盗垒	dao lei
+盗垒成功	dao lei cheng gong
+盗垒失败	dao lei shi bai
+得点圈	de dian quan
+得分	de fen
+短打	duan da
+二垒	er lei
+二垒安打	er lei an da
+二垒手	er lei shou
+封杀	feng sha
+高飞球	gao fei qiu
+高飞牺牲打	gao fei xi sheng da
+故意四坏球	gu yi si huai qiu
+关键球	guan jian qiu
+滚地球	gun di qiu
+国际联盟	guo ji lian meng
+好球	hao qiu
+好球带	hao qiu dai
+护身衣	hu shen yi
+护腿	hu tui
+滑地接球	hua di jie qiu
+滑垒	hua lei
+坏球	huai qiu
+挥棒	hui bang
+挥臂	hui bi
+夹杀	jia sha
+接后失手	jie hou shi shou
+界内球	jie nei qiu
+接替投手练习区	jie ti tou shou lian xi qu
+界外球	jie wai qiu
+金鸡独立式	jin ji du li shi
+救援成功	jiu yuan cheng gong
+救援点	jiu yuan dian
+救援失败	jiu yuan shi bai
+救援投手	jiu yuan tou shou
+控球	kong qiu
+快速球	kuai su qiu
+垒包	lei bao
+两垒间的路	liang lei jian de lu
+两指手套	liang zhi shou tao
+漏击	lou ji
+漏接	lou jie
+满垒	man lei
+满球数	man qiu shu
+慢速变化球	man su bian hua qiu
+慢速球	man su qiu
+美国大联盟	mei guo da lian meng
+美国联盟	mei guo lian meng
+名人厅	ming ren ting
+内角球	nei jiao qiu
+年度新人王	nian du xin ren wang
+牛棚	niu peng
+跑垒	pao lei
+跑垒指导员	pao lei zhi dao yuan
+牵制	qian zhi
+强打者	qiang da zhe
+青棒联盟	qing bang lian meng
+清垒	qing lei
+球棒	qiu bang
+球队总教练	qiu dui zong jiao lian
+球员休息室	qiu yuan xiu xi shi
+曲球	qu qiu
+曲速球	qu su qiu
+全垒打	quan lei da
+三垒	san lei
+三垒安打	san lei an da
+三垒手	san lei shou
+三杀	san sha
+三振	san zhen
+上垒率	shang lei lv
+上升球	shang sheng qiu
+少棒联盟	shao bang lian meng
+胜场	sheng chang
+胜利纪念球	sheng li ji nian qiu
+胜投	sheng tou
+世界大赛	shi jie da sai
+失误	shi wu
+守备	shou bei
+守备率	shou bei lv
+受伤名单	shou shang ming dan
+双盗垒	shuang dao lei
+双杀	shuang sha
+四坏球	si huai qiu
+缩棒	suo bang
+跳起接球	tiao qi jie qiu
+投捕手总称	tou bu shou zong cheng
+投球局数	tou qiu ju shu
+投球姿势	tou qiu zi shi
+投手	tou shou
+投手防御率	tou shou fang yu lv
+投手假动作	tou shou jia dong zuo
+投手丘	tou shou qiu
+投手完封	tou shou wan feng
+投手先发场次	tou shou xian fa chang ci
+投手责任失分	tou shou ze ren shi fen
+退回原垒	tui hui yuan lei
+外角球	wai jiao qiu
+外野手	wai ye shou
+无安打	wu an da
+牺牲打	xi sheng da
+下坠球	xia zhui qiu
+选球力	xuan qiu li
+旋转球	xuan zhuan qiu
+延长局	yan chang ju
+一垒	yi lei
+一垒安打	yi lei an da
+一垒手	yi lei shou
+游击手	you ji shou
+游击手守备范围	you ji shou shou bei fan wei
+右手打者	you shou da zhe
+右手投手	you shou tou shou
+右外野手	you wai ye shou
+指定打击	zhi ding da ji
+指节	zhi jie
+指节变化球	zhi jie bian hua qiu
+直球	zhi qiu
+中外野手	zhong wai ye shou
+助杀	zhu sha
+主审	zhu shen
+自由球员	zi you qiu yuan
+总教练	zong jiao lian
+足部犯规	zu bu fan gui
+最有价值球员	zui you jia zhi qiu yuan
+左手打者	zuo shou da zhe
+左手投手	zuo shou tou shou
+左外野手	zuo wai ye shou

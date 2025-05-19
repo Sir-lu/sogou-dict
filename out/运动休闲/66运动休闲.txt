@@ -1,0 +1,5 @@
+篮球	lan qiu
+乒乓球	ping pang qiu
+赛车	sai che
+游泳	you yong
+足球	zu qiu

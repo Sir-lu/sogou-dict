@@ -1,0 +1,9 @@
+缤纷	bin fen
+电商	dian shang
+服装品牌	fu zhuang pin pai
+互联网	hu lian wang
+平台	ping tai
+设计师	she ji shi
+时尚	shi shang
+时装周	shi zhuang zhou
+网站	wang zhan

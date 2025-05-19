@@ -1,0 +1,8 @@
+补充包	bu chong bao
+基础包	ji chu bao
+集换式卡牌游戏	ji huan shi ka pai you xi
+将领卡	jiang ling ka
+谋略卡	mou lue ka
+三国智	san guo zhi
+事件卡	shi jian ka
+桌游	zhuo you

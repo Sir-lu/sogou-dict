@@ -1,0 +1,8 @@
+八旋翼	ba xuan yi
+单旋翼	dan xuan yi
+多旋翼	duo xuan yi
+固定翼	gu ding yi
+六旋翼	liu xuan yi
+扑翼	pu yi
+四旋翼	si xuan yi
+无人机	wu ren ji

@@ -1,0 +1,12 @@
+惩戒骑士	cheng jie qi shi
+刺客圣殿	ci ke sheng dian
+灵魂圣殿	ling hun sheng dian
+魔法圣殿	mo fa sheng dian
+魔法师	mo fa shi
+魔族	mo zu
+牧师圣殿	mu shi sheng dian
+骑士圣殿	qi shi sheng dian
+神印骑士	shen yin qi shi
+守护骑士	shou hu qi shi
+战士圣殿	zhan shi sheng dian
+召唤师	zhao huan shi

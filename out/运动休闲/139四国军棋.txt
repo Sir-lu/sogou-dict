@@ -1,0 +1,302 @@
+碍于面子	ai yu mian zi
+碍于心理障碍	ai yu xin li zhang ai
+暗保	an bao
+暗兵	an bing
+暗亏	an kui
+暗令	an ling
+安全出炸	an quan chu zha
+暗炸	an zha
+暗子力	an zi li
+靶子效应	ba zi xiao ying
+白吃	bai chi
+包角雷	bao jiao lei
+暴露	bao lu
+被吃	bei chi
+被动令子言杀	bei dong ling zi yan sha
+被动明司令	bei dong ming si ling
+被动伪装	bei dong wei zhuang
+北极星	bei ji xing
+比赛	bi sai
+必胜模式	bi sheng mo shi
+避实击虚	bi shi ji xu
+边锋	bian feng
+贬值处理	bian zhi chu li
+搏地雷	bo di lei
+波克	bo ke
+搏雷区	bo lei qu
+不避令子无以成杀	bu bi ling zi wu yi cheng sha
+不出令子何以言杀	bu chu ling zi he yi yan sha
+布局防御	bu ju fang yu
+布局阶段	bu ju jie duan
+不跨级吃子	bu kua ji chi zi
+残局	can ju
+残局基本功	can ju ji ben gong
+残局阶段	can ju jie duan
+侧位隔断	ce wei ge duan
+常识法	chang shi fa
+超时	chao shi
+沉底	chen di
+沉角	chen jiao
+吃子	chi zi
+重山雾剑	chong shan wu jian
+冲炸	chong zha
+初学者	chu xue zhe
+打兑	da dui
+大局	da ju
+大局观	da ju guan
+大局指导细节	da ju zhi dao xi jie
+大亏	da kui
+打明大子	da ming da zi
+大思想	da si xiang
+大小价值	da xiao jia zhi
+大战略	da zhan lue
+大赚	da zhuan
+大子	da zi
+单家单项双抓	dan jia dan xiang shuang zhua
+单家三抓	dan jia san zhua
+单家双项双抓	dan jia shuang xiang shuang zhua
+单家双抓	dan jia shuang zhua
+单家一抓	dan jia yi zhua
+挡三线	dang san xian
+挡五线	dang wu xian
+挡一线	dang yi xian
+等待炸	deng dai zha
+地雷	di lei
+第一道防线	di yi dao fang xian
+底营	di ying
+点和	dian he
+调度	diao du
+叠雷	die lei
+多令子	duo ling zi
+二打一	er da yi
+二线中	er xian zhong
+反吃	fan chi
+反推法	fan tui fa
+防御炸	fang yu zha
+飞花逐月	fei hua zhu yue
+非军旗侧	fei jun qi ce
+飞雷	fei lei
+废棋	fei qi
+封挡	feng dang
+封副线	feng fu xian
+封锁战术	feng suo zhan shu
+封一线	feng yi xian
+封主线	feng zhu xian
+复盘	fu pan
+隔断	ge duan
+隔断炸	ge duan zha
+工兵	gong bing
+攻击顺序模式	gong ji shun xu mo shi
+攻其所必救	gong qi suo bi jiu
+固定形势的攻击模式	gu ding xing shi de gong ji mo shi
+挂角	gua jiao
+观察法	guan cha fa
+关键步	guan jian bu
+规避	gui bi
+规避风险	gui bi feng xian
+规避炸	gui bi zha
+诡道	gui dao
+好烦	hao fan
+河东狮吼	he dong shi hou
+横向比较	heng xiang bi jiao
+花步	hua bu
+花式军棋	hua shi jun qi
+基本功	ji ben gong
+基础理论	ji chu li lun
+纪律性	ji lv xing
+积小优为大优	ji xiao you wei da you
+集中兵力	ji zhong bing li
+假官	jia guan
+假军旗	jia jun qi
+假炸护真炸	jia zha hu zhen zha
+价值体系	jia zhi ti xi
+简单形势动复杂化	jian dan xing shi dong fu za hua
+简洁	jian jie
+简洁验证	jian jie yan zheng
+降低行棋风险	jiang di xing qi feng xian
+姜朕熙	jiang zhen xi
+姜朕熙语录	jiang zhen xi yu lu
+结局阶段	jie ju jie duan
+进攻炸	jin gong zha
+竞技军棋	jing ji jun qi
+绝对令子	jue dui ling zi
+绝对战斗力价值	jue dui zhan dou li jia zhi
+军旗	jun qi
+军棋	jun qi
+军旗侧	jun qi ce
+军棋格调	jun qi ge diao
+军棋旨归	jun qi zhi gui
+军长	jun zhang
+卡二线	ka er xian
+咔咔	ka ka
+喀丝丽	ka si li
+卡四线	ka si xian
+开局	kai ju
+开局基本功	kai ju ji ben gong
+开局阶段	kai ju jie duan
+扛军旗	kang jun qi
+可挡可不动	ke dang ke bu dong
+可攻可不攻	ke gong ke bu gong
+可胜模式	ke sheng mo shi
+可探可杀	ke tan ke sha
+控盘	kong pan
+控盘炸	kong pan zha
+空炸	kong zha
+狼来了	lang lai le
+累积法	lei ji fa
+连长	lian zhang
+联众	lian zhong
+令子	ling zi
+令子控炸	ling zi kong zha
+令子言杀	ling zi yan sha
+六线一	liu xian yi
+六线中	liu xian zhong
+旅长	lv zhang
+秒数	miao shu
+明亏	ming kui
+明子力	ming zi li
+模糊判断	mo hu pan duan
+模式	mo shi
+末项方案	mo xiang fang an
+谋攻	mou gong
+排长	pai zhang
+判断方法论	pan duan fang fa lun
+盘闪	pan shan
+盘闪型	pan shan xing
+配合	pei he
+骗杀	pian sha
+骗上家打下家	pian shang jia da xia jia
+骗下家打上家	pian xia jia da shang jia
+飘香一剑	piao xiang yi jian
+破炸	po zha
+棋理	qi li
+棋眉	qi mei
+奇胜正合	qi sheng zheng he
+且行	qie xing
+且行语录	qie xing yu lu
+清扫小子	qing sao xiao zi
+清晰判断	qing xi pan duan
+求和	qiu he
+趋利避害	qu li bi hai
+全面进攻	quan mian jin gong
+全明防守	quan ming fang shou
+全明双控	quan ming shuang kong
+全胜	quan sheng
+三角雷	san jiao lei
+三节阵	san jie zhen
+散雷	san lei
+三线二	san xian er
+善战	shan zhan
+上营	shang ying
+上游	shang you
+少兵多炸	shao bing duo zha
+少将剑痕泪	shao jiang jian hen lei
+少令子	shao ling zi
+升值处理	sheng zhi chu li
+十大名阵	shi da ming zhen
+试探法	shi tan fa
+师长	shi zhang
+十字抓	shi zi zhua
+首项方案	shou xiang fang an
+霜刀绕指柔	shuang dao rao zhi rou
+双飞	shuang fei
+双家双向双抓	shuang jia shuang xiang shuang zhua
+双控	shuang kong
+双明	shuang ming
+双明双控	shuang ming shuang kong
+双喜临门	shuang xi lin men
+双抓	shuang zhua
+四暗	si an
+司令	si ling
+丝丝文集	si si wen ji
+四线中	si xian zhong
+算步数	suan bu shu
+算子	suan zi
+探雷	tan lei
+梯级吃子	ti ji chi zi
+天灵	tian ling
+跳过	tiao guo
+铁马冰河	tie ma bing he
+投降	tou xiang
+团长	tuan zhang
+挖雷	wa lei
+伪司令	wei si ling
+围魏救赵	wei wei jiu zhao
+微赚	wei zhuan
+伪装验证	wei zhuang yan zheng
+窝心雷	wo xin lei
+物理防御	wu li fang yu
+物理进攻	wu li jin gong
+无令方	wu ling fang
+乌龙摆尾	wu long bai wei
+无盘无攻谓之龟	wu pan wu gong wei zhi gui
+无损吃子	wu sun chi zi
+五线中	wu xian zhong
+午夜风铃	wu ye feng ling
+无炸无令无军无师	wu zha wu ling wu jun wu shi
+细节	xi jie
+细节体现大局	xi jie ti xian da ju
+下营	xia ying
+先后手	xian hou shou
+相对令子	xiang dui ling zi
+小亏	xiao kui
+小赚	xiao zhuan
+小子	xiao zi
+信息价值	xin xi jia zhi
+心形雷	xin xing lei
+形势价值	xing shi jia zhi
+熊笑三	xiong xiao san
+血亏	xue kui
+验证	yan zheng
+仪琳	yi lin
+一灭二	yi mie er
+一挑二	yi tiao er
+一挑一	yi tiao yi
+一线中	yi xian zhong
+以小博大	yi xiao bo da
+一字雷	yi zi lei
+因变	yin bian
+营长	ying zhang
+有令方	you ling fang
+诱杀	you sha
+优先令子言杀	you xian ling zi yan sha
+娱乐棋	yu le qi
+于无声处	yu wu sheng chu
+渊渊	yuan yuan
+炸弹	zha dan
+诈和	zha hu
+战略威慑	zhan lue wei she
+战略性防御	zhan lue xing fang yu
+战略性进攻	zhan lue xing jin gong
+战术奇袭	zhan shu qi xi
+占营	zhan ying
+真军旗	zhen jun qi
+真令子	zhen ling zi
+震慑力	zhen she li
+真实子力棋盘	zhen shi zi li qi pan
+真司令	zhen si ling
+阵亡	zhen wang
+真炸护真炸	zhen zha hu zhen zha
+正对抓	zheng dui zhua
+直接验证	zhi jie yan zheng
+中局	zhong ju
+中局基本功	zhong ju ji ben gong
+中局阶段	zhong ju jie duan
+中营	zhong ying
+中游	zhong you
+中子	zhong zi
+主动令子言杀	zhu dong ling zi yan sha
+主动明司令	zhu dong ming si ling
+主动伪装	zhu dong wei zhuang
+主位隔断	zhu wei ge duan
+抓的几种形式	zhua de ji zhong xing shi
+赚翻了	zhuan fan le
+装大	zhuang da
+装工兵	zhuang gong bing
+撞死	zhuang si
+装小	zhuang xiao
+装炸	zhuang zha
+自爆	zi bao
+子的价值	zi de jia zhi
+走棋	zou qi
+走位	zou wei

@@ -1,0 +1,131 @@
+阿卡玛级米加粒子炮	a ka ma ji mi jia li zi pao
+爱尔兰级米加粒子炮	ai er lan ji mi jia li zi pao
+巴尔干炮	ba er gan pao
+白色基地	bai se ji di
+半光泽漆	ban guang ze qi
+笔刀	bi dao
+笔锯	bi ju
+笔涂	bi tu
+标准驾驶舱	biao zhun jia shi cang
+薄刃钳	bo ren qian
+补土	bu tu
+长距离炮击型	chang ju li pao ji xing
+赤色彗星	chi se hui xing
+出力	chu li
+出力模式	chu li mo shi
+传导液	chuan dao ye
+粗目打磨膏	cu mu da mo gao
+锉刀	cuo dao
+弹痕	dan hen
+单孔	dan kong
+单眼	dan yan
+导管	dao guan
+德军灰	de jun hui
+电镀色	dian du se
+多哥斯基亚级战舰	duo ge si ji ya ji zhan jian
+珐琅漆	fa lang qi
+飞马级战舰	fei ma ji zhan jian
+分模线	fen mo xian
+盖亚	gai ya
+钢模	gang mo
+高达	gao da
+高达勾线笔	gao da gou xian bi
+高达马克笔	gao da ma ke bi
+高机动型	gao ji dong xing
+勾线铅笔	gou xian qian bi
+光束步枪	guang shu bu qiang
+光束剑	guang shu jian
+光束军刀	guang shu jun dao
+光泽漆	guang ze qi
+海军蓝	hai jun lan
+核弹头	he dan tou
+核心战机	he xin zhan ji
+鹤嘴镊	he zui nie
+火箭筒	huo jian tong
+火神炮	huo shen pao
+基础白	ji chu bai
+基础黑	ji chu hei
+基础红	ji chu hong
+基础黄	ji chu huang
+基础蓝	ji chu lan
+基础绿	ji chu lv
+吉恩公国	ji en gong guo
+吉恩公国军	ji en gong guo jun
+吉姆	ji mu
+机枪	ji qiang
+驾驶舱	jia shi cang
+尖头镊	jian tou nie
+胶版	jiao ban
+胶棒	jiao bang
+胶贴	jiao tie
+接近战型	jie jin zhan xing
+金牌剪	jin pai jian
+金属色	jin shu se
+精神力骨架	jing shen li gu jia
+旧化	jiu hua
+旧化粉末	jiu hua fen mo
+郡仕	jun shi
+刻线	ke xian
+刻线刀	ke xian dao
+刻线针	ke xian zhen
+扩散式米加粒子炮	kuo san shi mi jia li zi pao
+力场	li chang
+量产型	liang chan xing
+亮光铝色	liang guang lv se
+亮银	liang yin
+流道	liu dao
+流缝胶	liu feng jiao
+麦哲伦级战舰	mai zhe lun ji zhan jian
+米加粒子炮	mi jia li zi pao
+米诺夫斯基粒子	mi nuo fu si ji li zi
+米诺夫斯基粒子悬浮系统	mi nuo fu si ji li zi xuan fu xi tong
+面相笔	mian xiang bi
+面相刀	mian xiang dao
+模魂志	mo hun zhi
+牛犊式机枪	niu du shi ji qiang
+炮击型	pao ji xing
+喷笔	pen bi
+枪铁色	qiang tie se
+球形驾驶舱	qiu xing jia shi cang
+全周天人机一体驾驶舱	quan zhou tian ren ji yi ti jia shi cang
+萨拉米斯级战舰	sa la mi si ji zhan jian
+砂纸	sha zhi
+神之手剪钳	shen zhi shou jian qian
+蚀刻片	shi ke pian
+仕上目打磨膏	shi shang mu da mo gao
+试作型	shi zuo xing
+水口	shui kou
+水贴	shui tie
+水性漆	shui xing qi
+田宫	tian gong
+田宫喷罐	tian gong pen guan
+天线	tian xian
+调色棒	tiao se bang
+调色皿	tiao se min
+推进器	tui jin qi
+万代	wan dai
+伪电镀色	wei dian du se
+五爽补土法	wu shuang bu tu fa
+细目打磨膏	xi mu da mo gao
+线性座椅	xian xing zuo yi
+消光漆	xiao guang qi
+星光金	xing guang jin
+星光铁	xing guang tie
+星光银	xing guang yin
+牙膏补土	ya gao bu tu
+液压管	ye ya guan
+一体成型	yi ti cheng xing
+一体成型骨架	yi ti cheng xing gu jia
+荧光粉红	ying guang fen hong
+油性漆	you xing qi
+造型	zao xing
+扎古	zha gu
+扎古火箭筒	zha gu huo jian tong
+扎古机枪	zha gu ji qiang
+战舰主炮级	zhan jian zhu pao ji
+战损	zhan sun
+殖民卫星	zhi min wei xing
+制御式喷口	zhi yu shi pen kou
+中距离支援型	zhong ju li zhi yuan xing
+主摄像头	zhu she xiang tou
+转印贴	zhuan yin tie

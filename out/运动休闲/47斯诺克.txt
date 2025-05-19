@@ -1,0 +1,79 @@
+薄边	bo bian
+超分	chao fen
+沉底	chen di
+吃库	chi ku
+打薄	da bao
+打厚	da hou
+袋口球	dai kou qiu
+单杆破百	dan gan po bai
+弹两库	dan liang ku
+弹一库	dan yi ku
+低杆	di gan
+点杆	dian gan
+顶一库	ding yi ku
+二次撞击	er ci zhuang ji
+翻袋	fan dai
+反塞	fan sai
+放空杆	fang kong gan
+防守线路	fang shou xian lu
+非活球	fei huo qiu
+粉巧	fen qiao
+杆法	gan fa
+杆架	gan jia
+高杆	gao gan
+红球堆	hong qiu dui
+红球区	hong qiu qu
+滑杆	hua gan
+回弹	hui tan
+活球	huo qiu
+加长把	jia chang ba
+架杆	jia gan
+加塞	jia sai
+进攻线路	jin gong xian lu
+局中球	ju zhong qiu
+壳粉	ke fen
+颗星	ke xing
+空杆	kong gan
+拉杆	la gan
+连击	lian ji
+两库	liang ku
+落袋	luo dai
+满分杆	man fen gan
+目标球	mu biao qiu
+母球	mu qiu
+碰岸比近	peng an bi jin
+枪粉	qiang fen
+抢局	qiang ju
+巧粉	qiao fen
+巧克粉	qiao ke fen
+球台中心线	qiu tai zhong xin xian
+三角架	san jiao jia
+十字回球	shi zi hui qiu
+手桥	shou qiao
+手中球	shou zhong qiu
+双着	shuang zhe
+死角球	si jiao qiu
+死球	si qiu
+随势出杆	sui shi chu gan
+缩杆	suo gan
+缩球	suo qiu
+台呢	tai ni
+跳击	tiao ji
+跳球	tiao qiu
+贴库	tie ku
+帖球	tie qiu
+推杆	tui gan
+吻击	wen ji
+校位	xiao wei
+一库	yi ku
+油巧	you qiao
+右塞	you sai
+扎杆	zha gan
+主球	zhu qiu
+自落	zi luo
+自然侧旋	zi ran ce xuan
+自然上旋	zi ran shang xuan
+走位	zou wei
+组合球	zu he qiu
+左塞	zuo sai
+做斯诺克	zuo si nuo ke

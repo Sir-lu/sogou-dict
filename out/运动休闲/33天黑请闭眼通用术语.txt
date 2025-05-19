@@ -1,0 +1,152 @@
+暗警	an jing
+掰票	bai piao
+白天	bai tian
+保护	bao hu
+暴露	bao lu
+暴民	bao min
+暴杀	bao sha
+包装	bao zhuang
+崩溃	beng kui
+必胜局	bi sheng ju
+辩护	bian hu
+变票	bian piao
+踩警	cai jing
+踩民	cai min
+踩杀	cai sha
+查杀	cha sha
+场外信息	chang wai xin xi
+撤票	che piao
+沉底	chen di
+出动	chu dong
+出局	chu ju
+打包	da bao
+带票	dai piao
+挡刀	dang dao
+点刀	dian dao
+掉线	diao xian
+法官	fa guan
+反驳	fan bo
+匪刀在后	fei dao zai hou
+匪刀在前	fei dao zai qian
+匪徒	fei tu
+分票	fen piao
+改票	gai piao
+改圈	gai quan
+跟风	gen feng
+跟票	gen piao
+共边	gong bian
+攻击	gong ji
+公决	gong jue
+归票	gui piao
+悍跳	han tiao
+焊跳	han tiao
+好人	hao ren
+黑夜	hei ye
+后手	hou shou
+互投	hu tou
+华丽跳警	hua li tiao jing
+化装	hua zhuang
+坏人	huai ren
+豁保	huo bao
+活人	huo ren
+焦点	jiao dian
+交牌	jiao pai
+警察	jing cha
+警察不给民做主不如家卖红薯	jing cha bu gei min zuo zhu bu ru jia mai hong shu
+局势控制权	ju shi kong zhi quan
+口头警告	kou tou jing gao
+立警	li jing
+连号	lian hao
+连警	lian jing
+连杀	lian sha
+良民	liang min
+聊爆了	liao bao le
+乱民	luan min
+裸奔	luo ben
+摞票	luo piao
+冒保	mao bao
+冒咬	mao yao
+没身份	mei shen fen
+明警	ming jing
+内推	nei tui
+判断	pan duan
+平安日	ping an ri
+平安夜	ping an ye
+平局	ping ju
+平民	ping min
+平票	ping piao
+潜水	qian shui
+浅跳警	qian tiao jing
+强保	qiang bao
+强跳	qiang tiao
+全民公投	quan min gong tou
+劝降	quan xiang
+认匪	ren fei
+认警	ren jing
+认圈	ren quan
+认杀	ren sha
+认推	ren tui
+认推不认验	ren tui bu ren yan
+认验不认推	ren yan bu ren tui
+软掰	ruan bai
+弱保	ruo bao
+杀偏刀	sha pian dao
+杀票	sha piao
+杀手	sha shou
+杀手跳警	sha shou tiao jing
+杀手自杀	sha shou zi sha
+上局	shang ju
+生推	sheng tui
+首票	shou piao
+首杀	shou sha
+首推	shou tui
+首验	shou yan
+树立形象	shu li xing xiang
+双跳	shuang tiao
+水警	shui jing
+水民	shui min
+顺踩	shun cai
+顺砸	shun za
+死踩	si cai
+死警	si jing
+死人	si ren
+死咬	si yao
+特殊身份	te shu shen fen
+天黑请闭眼	tian hei qing bi yan
+跳警	tiao jing
+调票	tiao piao
+跳票	tiao piao
+跳杀手	tiao sha shou
+跳咬	tiao yao
+投出去	tou chu qu
+投票	tou piao
+挖坑	wa keng
+歪刀	wai dao
+猥琐	wei suo
+我保	wo bao
+先手	xian shou
+信息量	xin xi liang
+迅猛	xun meng
+压迫	ya po
+验出人	yan chu ren
+验空	yan kong
+验杀	yan sha
+淹死	yan si
+验一推一	yan yi tui yi
+阳光跳警	yang guang tiao jing
+遗言	yi yan
+已验	yi yan
+一一一以上是杀手发言一一一已查验一一一	yi yi yi yi shang shi sha shou fa yan yi yi yi yi cha yan yi yi yi
+一一一以下是杀手发言一一一请注意一一一	yi yi yi yi xia shi sha shou fa yan yi yi yi qing zhu yi yi yi yi
+隐藏	yin cang
+引入焦点	yin ru jiao dian
+有身份	you shen fen
+诈跳	zha tiao
+招验	zhao yan
+这局	zhe ju
+指认	zhi ren
+质疑	zhi yi
+主刀	zhu dao
+主杀	zhu sha
+主验	zhu yan
+自投	zi tou

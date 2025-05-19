@@ -1,0 +1,686 @@
+暗箭	an jian
+暗将	an jiang
+安娴	an xian
+按行动顺序响应	an xing dong shun xu xiang ying
+安恤	an xu
+暗置	an zhi
+傲才	ao cai
+八卦	ba gua
+八卦阵	ba gua zhen
+八号位	ba hao wei
+八人局	ba ren ju
+八阵	ba zhen
+拜印	bai yin
+白银狮子	bai yin shi zi
+豹变	bao bian
+暴怒标记	bao nu biao ji
+暴虐	bao nue
+悲歌	bei ge
+崩坏	beng huai
+笔伐	bi fa
+闭月	bi yue
+标风	biao feng
+标准版	biao zhun ban
+濒死	bin si
+濒死事件	bin si shi jian
+濒死状态	bin si zhuang tai
+兵粮	bing liang
+兵粮寸断	bing liang cun duan
+不动如山	bu dong ru shan
+不可被闪避	bu ke bei shan bi
+步练师	bu lian shi
+不屈	bu qu
+不同花色	bu tong hua se
+补益	bu yi
+蔡文姬	cai wen ji
+曹操	cao cao
+曹冲	cao chong
+曹洪	cao hong
+曹丕	cao pi
+曹仁	cao ren
+曹彰	cao zhang
+曹植	cao zhi
+陈宫	chen gong
+陈琳	chen lin
+程普	cheng pu
+称象	cheng xiang
+吃桃	chi tao
+赤兔	chi tu
+重置	chong zhi
+重铸	chong zhu
+抽牌	chou pai
+抽取	chou qu
+出牌	chu pai
+出牌阶段	chu pai jie duan
+出杀	chu sha
+出闪	chu shan
+醇醪	chun lao
+雌雄	ci xiong
+雌雄双股剑	ci xiong shuang gu jian
+存牌	cun pai
+挫锐	cuo rui
+打出	da chu
+大喝	da he
+大将	da jiang
+大乔	da qiao
+大乔小乔	da qiao xiao qiao
+大宛	da wan
+大雾	da wu
+胆守	dan shou
+单挑	dan tiao
+当先	dang xian
+邓艾	deng ai
+的卢	di lu
+缔盟	di meng
+点数	dian shu
+点体力	dian ti li
+典韦	dian wei
+貂蝉	diao chan
+掉血	diao xue
+丁奉	ding feng
+董卓	dong zhuo
+黩武	du wu
+短兵	duan bing
+断肠	duan chang
+断粮	duan liang
+堆顶	dui ding
+夺刀	duo dao
+度势	duo shi
+恩怨	en yuan
+二号位	er hao wei
+二乔	er qiao
+二张	er zhang
+发动技能	fa dong ji neng
+法正	fa zheng
+反间	fan jian
+反馈	fan kui
+翻面	fan mian
+反贼	fan zei
+防具	fang ju
+方块闪	fang kuai shan
+方块桃	fang kuai tao
+放权	fang quan
+方天	fang tian
+方天画戟	fang tian hua ji
+放逐	fang zhu
+非延时锦囊	fei yan shi jin nang
+非延时类锦囊	fei yan shi lei jin nang
+飞影	fei ying
+焚城	fen cheng
+分发	fen fa
+奋迅	fen xun
+愤勇	fen yong
+风包	feng bao
+风火林山	feng huo lin shan
+风扩展包	feng kuo zhan bao
+伏皇后	fu huang hou
+父魂	fu hun
+伏枥	fu li
+扶乱	fu luan
+伏完	fu wan
+改判	gai pan
+甘夫人	gan fu ren
+甘露	gan lu
+甘宁	gan ning
+刚烈	gang lie
+高顺	gao shun
+高玩	gao wan
+攻击范围	gong ji fan wei
+弓骑	gong qi
+攻心	gong xin
+勾玉	gou yu
+古锭	gu ding
+古锭刀	gu ding dao
+蛊惑	gu huo
+固政	gu zheng
+观看	guan kan
+关平	guan ping
+贯石	guan shi
+贯石斧	guan shi fu
+关兴	guan xing
+观星	guan xing
+关兴张苞	guan xing zhang bao
+关银屏	guan yin ping
+关羽	guan yu
+关张	guan zhang
+鬼才	gui cai
+鬼道	gui dao
+归心	gui xin
+过河拆桥	guo he chai qiao
+郭淮	guo huai
+郭嘉	guo jia
+过牌量	guo pai liang
+国色	guo se
+国战	guo zhan
+寒冰	han bing
+寒冰剑	han bing jian
+韩当	han dang
+汉统	han tong
+好施	hao shi
+号位	hao wei
+何进	he jin
+黑色杀	hei se sha
+黑杀	hei sha
+横置	heng zhi
+红色杀	hong se sha
+红杀	hong sha
+红桃闪	hong tao shan
+红颜	hong yan
+护驾	hu jia
+虎牢关	hu lao guan
+虎啸	hu xiao
+骅骝	hua liu
+花色	hua se
+化身	hua shen
+华佗	hua tuo
+华雄	hua xiong
+皇恩	huang en
+黄盖	huang gai
+黄天	huang tian
+黄月英	huang yue ying
+黄忠	huang zhong
+回复体力	hui fu ti li
+回合	hui he
+回合结束	hui he jie shu
+回合结束阶段	hui he jie shu jie duan
+回合开始	hui he kai shi
+回合开始阶段	hui he kai shi jie duan
+回合内	hui he nei
+回合外	hui he wai
+挥泪	hui lei
+魂姿	hun zi
+火包	huo bao
+火攻	huo gong
+火计	huo ji
+火扩展包	huo kuo zhan bao
+火杀	huo sha
+祸首	huo shou
+祸水	huo shui
+火焰伤害	huo yan shang hai
+火诸葛	huo zhu ge
+火诸葛亮	huo zhu ge liang
+激昂	ji ang
+基本牌	ji ben pai
+嫉恶	ji e
+激将	ji jiang
+急救	ji jiu
+纪灵	ji ling
+集智	ji zhi
+贾诩	jia xu
+加一马	jia yi ma
+奸雄	jian xiong
+减一马	jian yi ma
+简雍	jian yong
+将驰	jiang chi
+姜维	jiang wei
+借刀	jie dao
+借刀杀人	jie dao sha ren
+解烦	jie fan
+节命	jie ming
+结算	jie suan
+结算中	jie suan zhong
+结姻	jie yin
+禁酒	jin jiu
+锦囊	jin nang
+锦囊牌	jin nang pai
+精策	jing ce
+竞技场	jing ji chang
+酒池	jiu chi
+酒火杀	jiu huo sha
+酒雷杀	jiu lei sha
+酒杀	jiu sha
+酒诗	jiu shi
+救援	jiu yuan
+举荐	ju jian
+据守	ju shou
+巨象	ju xiang
+绝策	jue ce
+决斗	jue dou
+绝境	jue jing
+绝情	jue qing
+觉醒	jue xing
+觉醒技	jue xing ji
+绝影	jue ying
+军威	jun wei
+峻刑	jun xing
+军争	jun zheng
+军争包	jun zheng bao
+军争篇	jun zheng pian
+看破	kan po
+克己	ke ji
+控场	kong chang
+空城	kong cheng
+孔融	kong rong
+扣减	kou jian
+扣血	kou xue
+苦肉	ku rou
+狂暴	kuang bao
+狂风	kuang feng
+狂斧	kuang fu
+狂骨	kuang gu
+溃围	kui wei
+扩充包	kuo chong bao
+扩展包	kuo zhan bao
+狼顾	lang gu
+老诸葛	lao zhu ge
+乐不思蜀	le bu si shu
+乐进	le jin
+雷电伤害	lei dian shang hai
+雷击	lei ji
+雷杀	lei sha
+冷色	leng se
+离婚	li hun
+离魂	li hun
+疠火	li huo
+离间	li jian
+礼让	li rang
+李儒	li ru
+连环	lian huan
+连环传导	lian huan chuan dao
+连环状态	lian huan zhuang tai
+连弩	lian nu
+连破	lian po
+连营	lian ying
+亮出	liang chu
+亮身份	liang shen fen
+廖化	liao hua
+烈弓	lie gong
+烈刃	lie ren
+裂围	lie wei
+林包	lin bao
+林扩展包	lin kuo zhan bao
+凌统	ling tong
+刘备	liu bei
+刘表	liu biao
+刘封	liu feng
+六号位	liu hao wei
+流离	liu li
+流氓云	liu mang yun
+六人局	liu ren ju
+刘禅	liu shan
+刘协	liu xie
+龙胆	long dan
+龙魂	long hun
+龙吟	long yin
+鲁肃	lu su
+陆逊	lu xun
+乱击	luan ji
+乱武	luan wu
+洛神	luo shen
+落雁	luo yan
+裸衣	luo yi
+落英	luo ying
+吕布	lv bu
+吕蒙	lv meng
+马超	ma chao
+马岱	ma dai
+马术	ma shu
+马谡	ma su
+马腾	ma teng
+马忠	ma zhong
+满宠	man chong
+漫卷	man juan
+满手牌	man shou pai
+满体力	man ti li
+每回合	mei hui he
+孟获	meng huo
+猛进	meng jin
+梦魇标记	meng yan biao ji
+秘计	mi ji
+密诏	mi zhao
+面杀	mian sha
+灭计	mie ji
+明策	ming ce
+名士	ming shi
+明置	ming zhi
+明置势力	ming zhi shi li
+摸牌	mo pai
+摸牌阶段	mo pai jie duan
+谋断	mou duan
+谋溃	mou kui
+谋诛	mou zhu
+南蛮	nan man
+南蛮入侵	nan man ru qin
+内奸	nei jian
+涅槃	nie pan
+牛金	niu jin
+暖色	nuan se
+牌堆	pai dui
+牌堆底	pai dui di
+牌堆顶	pai dui ding
+判定	pan ding
+判定阶段	pan ding jie duan
+判定牌	pan ding pai
+判定区	pan ding qu
+潘凤	pan feng
+潘马	pan ma
+潘璋	pan zhang
+潘璋马忠	pan zhang ma zhong
+庞德	pang de
+庞统	pang tong
+咆哮	pao xiao
+拼点	pin dian
+破军	po jun
+普杀	pu sha
+普通杀	pu tong sha
+奇才	qi cai
+奇策	qi ce
+七号位	qi hao wei
+其疾如风	qi ji ru feng
+麒麟弓	qi lin gong
+弃牌	qi pai
+弃牌堆	qi pai dui
+弃牌阶段	qi pai jie duan
+弃牌数	qi pai shu
+七人局	qi ren ju
+起手	qi shou
+弃桃	qi tao
+奇袭	qi xi
+七星	qi xing
+其徐如林	qi xu ru lin
+七血	qi xue
+弃置	qi zhi
+前锋	qian feng
+黔武	qian wu
+潜袭	qian xi
+谦逊	qian xun
+强袭	qiang xi
+巧变	qiao bian
+巧说	qiao shui
+侵掠如火	qin lue ru huo
+琴音	qin yin
+倾城	qing cheng
+青缸	qing gang
+青釭	qing gang
+青缸剑	qing gang jian
+青釭剑	qing gang jian
+倾国	qing guo
+青龙	qing long
+青龙偃月刀	qing long yan yue dao
+青囊	qing nang
+求桃	qiu tao
+求援	qiu yuan
+驱虎	qu hu
+权计	quan ji
+全扩	quan kuo
+群雄角色	qun xiong jue se
+群雄势力	qun xiong shi li
+仁德	ren de
+忍戒	ren jie
+仁王	ren wang
+仁王盾	ren wang dun
+仁心	ren xin
+任意张牌	ren yi zhang pai
+肉林	rou lin
+若愚	ruo yu
+三国杀	san guo sha
+三号位	san hao wei
+三尖两刃刀	san jian liang ren dao
+山包	shan bao
+闪避	shan bi
+闪电	shan dian
+山扩展包	shan kuo zhan bao
+伤害来源	shang hai lai yuan
+上将	shang jiang
+伤逝	shang shi
+涉猎	she lie
+神曹	shen cao
+神曹操	shen cao cao
+神愤	shen fen
+身份局	shen fen ju
+身份牌	shen fen pai
+神关	shen guan
+神关羽	shen guan yu
+神话再临	shen hua zai lin
+神戟	shen ji
+神吕布	shen lv bu
+神吕蒙	shen lv meng
+神司马	shen si ma
+神司马懿	shen si ma yi
+神速	shen su
+神威	shen wei
+神赵云	shen zhao yun
+神智	shen zhi
+神周	shen zhou
+神周瑜	shen zhou yu
+神诸葛	shen zhu ge
+神诸葛亮	shen zhu ge liang
+誓仇	shi chou
+失去体力	shi qu ti li
+恃勇	shi yong
+使用或打出	shi yong huo da chu
+受到伤害	shou dao shang hai
+受到一点伤害	shou dao yi dian shang hai
+手牌	shou pai
+手牌上限	shou pai shang xian
+手牌数	shou pai shu
+收人	shou ren
+淑德	shu de
+淑慎	shu shen
+蜀势力	shu shi li
+蜀势力角色	shu shi li jue se
+属性杀	shu xing sha
+属性伤害	shu xing shang hai
+双将	shuang jiang
+双内局	shuang nei ju
+双刃	shuang ren
+双头	shuang tou
+双雄	shuang xiong
+水淹	shui yan
+水淹七军	shui yan qi jun
+顺手牵羊	shun shou qian yang
+四号位	si hao wei
+死谏	si jian
+四禁	si jin
+司马懿	si ma yi
+颂词	song ci
+颂威	song wei
+随势	sui shi
+孙策	sun ce
+孙坚	sun jian
+孙权	sun quan
+孙尚香	sun shang xiang
+锁定技	suo ding ji
+太史慈	tai shi ci
+探虎	tan hu
+桃园	tao yuan
+桃园结义	tao yuan jie yi
+藤甲	teng jia
+体力回复	ti li hui fu
+体力流失	ti li liu shi
+体力牌	ti li pai
+体力上限	ti li shang xian
+体力值	ti li zhi
+天妒	tian du
+田丰	tian feng
+天命	tian ming
+天香	tian xiang
+天义	tian yi
+跳反	tiao fan
+跳过	tiao guo
+跳内	tiao nei
+挑衅	tiao xin
+跳忠	tiao zhong
+铁骑	tie ji
+铁索	tie suo
+铁索连环	tie suo lian huan
+突袭	tu xi
+屯牌	tun pai
+屯田	tun tian
+托管	tuo guan
+拓展包	tuo zhan bao
+玩家	wan jia
+万箭	wan jian
+万箭齐发	wan jian qi fa
+婉容	wan rong
+完杀	wan sha
+网杀	wang sha
+王异	wang yi
+伪帝	wei di
+帷幕	wei mu
+魏势力	wei shi li
+魏势力角色	wei shi li jue se
+魏延	wei yan
+文丑	wen chou
+文武	wen wu
+卧龙	wo long
+卧龙诸葛	wo long zhu ge
+卧龙诸葛亮	wo long zhu ge liang
+五谷	wu gu
+五谷丰登	wu gu feng deng
+吴国太	wu guo tai
+五号位	wu hao wei
+武魂	wu hun
+武继	wu ji
+武将	wu jiang
+武将技	wu jiang ji
+武将牌	wu jiang pai
+武将牌翻面	wu jiang pai fan mian
+吴六剑	wu liu jian
+无谋	wu mou
+无前	wu qian
+五人局	wu ren ju
+无色杀	wu se sha
+武神	wu shen
+武圣	wu sheng
+无视	wu shi
+吴势力	wu shi li
+吴势力角色	wu shi li jue se
+无手牌	wu shou pai
+无双	wu shuang
+无懈	wu xie
+无懈可击	wu xie ke ji
+无言	wu yan
+无中	wu zhong
+无中生有	wu zhong sheng you
+洗混	xi hun
+洗牌	xi pai
+夏侯霸	xia hou ba
+夏侯惇	xia hou dun
+夏侯渊	xia hou yuan
+限定技	xian ding ji
+先锋	xian feng
+陷嗣	xian si
+陷阵	xian zhen
+享乐	xiang le
+相同花色	xiang tong hua se
+向下取整	xiang xia qu zheng
+响应	xiang ying
+小关张	xiao guan zhang
+骁果	xiao guo
+枭姬	xiao ji
+小乔	xiao qiao
+骁袭	xiao xi
+小诸葛	xiao zhu ge
+挟缠	xie chan
+新生	xin sheng
+心战	xin zhan
+行动顺序	xing dong shun xu
+行殇	xing shang
+星舞	xing wu
+雄异	xiong yi
+修罗	xiu luo
+许褚	xu chu
+徐晃	xu huang
+徐盛	xu sheng
+徐庶	xu shu
+旋风	xuan feng
+眩惑	xuan huo
+雪恨	xue hen
+血祭	xue ji
+血裔	xue yi
+荀攸	xun you
+荀彧	xun yu
+延祸	yan huo
+颜良	yan liang
+颜良文丑	yan liang wen chou
+延时锦囊	yan shi jin nang
+延时类锦囊	yan shi lei jin nang
+颜文	yan wen
+言笑	yan xiao
+严整	yan zheng
+耀武	yao wu
+野心家	ye xin jia
+业炎	ye yan
+移出游戏	yi chu you xi
+一号位	yi hao wei
+遗计	yi ji
+一将成名	yi jiang cheng ming
+已损失体力值	yi sun shi ti li zhi
+毅重	yi zhong
+银铃	yin ling
+阴阳鱼	yin yang yu
+英魂	ying hun
+英姿	ying zi
+庸肆	yong si
+游卡	you ka
+游卡桌游	you ka zhuo you
+游戏牌	you xi pai
+御策	yu ce
+虞翻	yu fan
+于吉	yu ji
+于禁	yu jin
+预亮	yu liang
+援护	yuan hu
+远交近攻	yuan jiao jin gong
+袁绍	yuan shao
+袁术	yuan shu
+月英	yue ying
+再起	zai qi
+凿险	zao xian
+丈八	zhang ba
+丈八蛇矛	zhang ba she mao
+张苞	zhang bao
+张春华	zhang chun hua
+张飞	zhang fei
+张郃	zhang he
+张纮	zhang hong
+张角	zhang jiao
+张辽	zhang liao
+张昭	zhang zhao
+张昭张纮	zhang zhao zhang hong
+爪黄飞电	zhao huang fei dian
+昭烈	zhao lie
+昭心	zhao xin
+赵云	zhao yun
+甄姬	zhen ji
+贞烈	zhen lie
+阵亡	zhen wang
+阵营	zhen ying
+制霸	zhi ba
+智迟	zhi chi
+制衡	zhi heng
+志继	zhi ji
+知己知彼	zhi ji zhi bi
+直谏	zhi jian
+直言	zhi yan
+智愚	zhi yu
+忠臣	zhong chen
+钟会	zhong hui
+中坚	zhong jian
+周泰	zhou tai
+周瑜	zhou yu
+诸葛	zhu ge
+诸葛恪	zhu ge ke
+诸葛连弩	zhu ge lian nu
+诸葛亮	zhu ge liang
+主公	zhu gong
+主公技	zhu gong ji
+珠联璧合	zhu lian bi he
+朱雀羽扇	zhu que yu shan
+朱然	zhu ran
+祝融	zhu rong
+主帅	zhu shuai
+装备牌	zhuang bei pai
+装备区	zhuang bei qu
+惴恐	zhui kong
+追忆	zhui yi
+自立	zi li
+自守	zi shou
+紫骍	zi xing
+宗室	zong shi
+纵适	zong shi
+纵玄	zong xuan
+邹氏	zou shi
+醉乡	zui xiang
+左慈	zuo ci

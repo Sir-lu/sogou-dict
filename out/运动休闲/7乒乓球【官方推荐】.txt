@@ -1,0 +1,641 @@
+阿昌塔	a chang ta
+阿隆斯	a long si
+阿佩依伦	a pei yi lun
+爱博	ai bo
+埃洛瓦	ai luo wa
+爱蔷	ai qiang
+岸川圣也	an chuan sheng ye
+安哲英	an zhe ying
+奥夫查洛夫	ao fu cha luo fu
+奥恰洛夫	ao qia luo fu
+巴蒂斯库	ba di si ku
+巴纳	ba na
+摆短	bai duan
+白石	bai shi
+白杨	bai yang
+坂本龙介	ban ben long jie
+半长胶	ban chang jiao
+半高抛	ban gao pao
+爆冲	bao chong
+报分	bao fen
+鲍罗斯	bao luo si
+鲍姆	bao mu
+暴挑	bao tiao
+鲍维奇	bao wei qi
+奔球	ben qiu
+本特森	ben te sen
+边线	bian xian
+并步	bing bu
+波尔	bo er
+伯格曼	bo ge man
+波普杯	bo pu bei
+搏杀	bo sha
+波塔	bo ta
+步法	bu fa
+布拉什奇克	bu la shen qi ke
+不转	bu zhuan
+擦边	ca bian
+擦网	ca wang
+裁判员	cai pan yuan
+蔡晓黎	cai xiao li
+蔡振华	cai zhen hua
+曹幸妮	cao xing ni
+曹燕华	cao yan hua
+曹臻	cao zhen
+侧拧	ce ning
+侧上	ce shang
+侧上下	ce shang xia
+侧身	ce shen
+侧身步	ce shen bu
+侧下	ce xia
+侧旋	ce xuan
+常晨晨	chang chen chen
+长胶	chang jiao
+长球	chang qiu
+陈剑	chen jian
+陈江华	chen jiang hua
+陈静	chen jing
+陈龙灿	chen long can
+陈佩芬	chen pei fen
+陈玘	chen qi
+陈晴	chen qing
+陈卫星	chen wei xing
+陈新华	chen xin hua
+陈智明	chen zhi ming
+陈子荷	chen zi he
+池旼亨	chi min heng
+迟洋	chi yang
+抽球	chou qiu
+崔贤珍	cui xian zhen
+搓长	cuo chang
+搓球	cuo qiu
+大郭	da guo
+大侯	da hou
+大力抽杀	da li chou sha
+大帕夫洛维奇	da pa fu luo wei qi
+大塞弗	da sai fu
+戴丽丽	dai li li
+单步	dan bu
+单打	dan da
+单桧	dan gui
+单明杰	dan ming jie
+弹网	dan wang
+单晓娜	dan xiao na
+挡球	dang qiu
+倒板	dao ban
+德佩特里索娃	de pei te li suo wa
+德系	de xi
+邓亚萍	deng ya ping
+底板	di ban
+荻村伊智朗	di cun yi zhi lang
+迪米特里	di mi te li
+低抛	di pao
+垫步	dian bu
+丁宁	ding ning
+丁颖	ding ying
+杜迪安	du di an
+短球	duan qiu
+端线	duan xian
+对方台面	dui fang tai mian
+对攻	dui gong
+对拉	dui la
+多尼克	duo ni ke
+发侧旋球	fa ce xuan qiu
+发近台削球	fa jin tai xiao qiu
+法卡斯	fa ka si
+发球	fa qiu
+发下旋短球	fa xia xuan duan qiu
+发正手上旋球	fa zheng shou shang xuan qiu
+反攻	fan gong
+反胶	fan jiao
+反拉	fan la
+反手	fan shou
+反手反攻	fan shou fan gong
+反手防守	fan shou fang shou
+反手弧圈球	fan shou hu quan qiu
+反撕	fan si
+范瑛	fan ying
+方博	fang bo
+放高球	fang gao qiu
+防弧胶皮	fang hu jiao pi
+芳碳	fang tan
+菲力蒙	fei li meng
+费也科纳特	fei ye ke na te
+冯天薇	feng tian wei
+冯亚兰	feng ya lan
+冯喆	feng zhe
+福冈春菜	fu gang chun cai
+弗朗茨	fu lang ci
+福原爱	fu yuan ai
+高吊	gao diao
+高吊弧圈球	gao diao hu quan qiu
+高军	gao jun
+高礼泽	gao li ze
+高木和健一	gao mu he jian yi
+高木和卓	gao mu he zhuo
+高宁	gao ning
+高抛	gao pao
+高抛发球	gao pao fa qiu
+高抛式发球	gao pao shi fa qiu
+高桥美贵江	gao qiao mei gui jiang
+高曦	gao xi
+高云光	gao yun guang
+格疯子	ge feng zi
+格林卡	ge lin ka
+格鲁巴	ge lu ba
+格鲁基奇	ge lu ji qi
+格鲁伊奇	ge lu yi qi
+葛新爱	ge xin ai
+各站	ge zhan
+耿丽娟	geng li juan
+攻球	gong qiu
+谷青成	gu qing cheng
+谷振江	gu zhen jiang
+挂网	gua wang
+灌胶	guan jiao
+规则	gui ze
+滚网	gun wang
+郭芳芳	guo fang fang
+国际乒联	guo ji ping lian
+郭瑾浩	guo jin hao
+郭刻历	guo ke li
+郭焱	guo yan
+郭跃	guo yue
+郭跃华	guo yue hua
+哈坎松	ha kan song
+海面	hai mian
+海茵霍夫曼	hai yin huo fu man
+韩华	han hua
+韩阳	han yang
+郝帅	hao shuai
+赫杜塞克杯	he du sai ke bei
+河野满	he ye man
+何智丽	he zhi li
+何志文	he zhi wen
+黑斯特	hei si te
+横板	heng ban
+横打	heng da
+横拉	heng la
+横拍	heng pai
+横网	heng wang
+红双喜	hong shuang xi
+侯琳	hou lin
+侯英超	hou ying chao
+胡滨	hu bin
+蝴蝶	hu die
+胡汉平	hu han ping
+弧圈球	hu quan qiu
+胡玉兰	hu yu lan
+滑板	hua ban
+滑步	hua bu
+换发球	huan fa qiu
+晃摆	huang bai
+黄飚	huang biao
+晃搓	huang cuo
+黄俊	huang jun
+黄俊群	huang jun qun
+晃撇	huang pie
+黄圣盛	huang sheng sheng
+晃挑	huang tiao
+黄文冠	huang wen guan
+黄怡桦	huang yi hua
+回合	hui he
+惠均	hui jun
+混合双打	hun he shuang da
+吉奥尼斯	ji ao ni si
+吉盖斯特杯	ji gai si te bei
+击球	ji qiu
+击球法	ji qiu fa
+吉田海伟	ji tian hai wei
+吉尤尼斯	ji you ni si
+加多施	jia duo shi
+加多斯	jia duo si
+贾君	jia jun
+加宁娜	jia ning na
+加转	jia zhuan
+江宏杰	jiang hong jie
+姜华珺	jiang hua jun
+江嘉良	jiang jia liang
+奖牌	jiang pai
+蒋澎龙	jiang peng long
+江天一	jiang tian yi
+交叉步	jiao cha bu
+胶皮	jiao pi
+接发球	jie fa qiu
+金成哲	jin cheng zhe
+金恩华	jin en hua
+金福来	jin fu lai
+进攻性发球	jin gong xing fa qiu
+金赫峰	jin he feng
+金暻娥	jin jing e
+靳鲁芳	jin lu fang
+金美英	jin mei ying
+金牌	jin pai
+近台	jin tai
+近台打法	jin tai da fa
+近台防守	jin tai fang shou
+金廷勳	jin ting xun
+金沢咲希	jin ze xiao xi
+金泽洙	jin ze zhu
+金贞弦	jin zhen xian
+金正	jin zheng
+金仲	jin zhong
+鞠连华	ju lian hua
+卡尔森	ka er sen
+卡尔松	ka er song
+卡拉卡塞维奇	ka la ka sai wei qi
+卡拉卡舍维奇	ka la ka she wei qi
+凯恩	kai en
+凯特纳罗娃	kai te na luo wa
+砍式	kan shi
+考比伦杯	kao bi lun bei
+科贝尔	ke bei er
+克库塔库	ke ku ta ku
+科拉尔	ke la er
+颗粒胶	ke li jiao
+克里桑	ke li sang
+科斯特罗米娜	ke si te luo mi na
+科提奇娜	ke ti qi na
+孔令辉	kong ling hui
+扣杀	kou sha
+库帕尔	ku pa er
+库兹明	ku zi ming
+跨步	kua bu
+快拨	kuai bo
+快带	kuai dai
+狂飙皓	kuang biao hao
+狂飙王	kuang biao wang
+狂二	kuang er
+狂三	kuang san
+拉攻	la gong
+拉弧圈球	la hu quan qiu
+拉球	la qiu
+拦击	lan ji
+老蔡	lao cai
+老牛	lao niu
+老佩	lao pei
+老普	lao pu
+老萨	lao sa
+老施	lao shi
+老瓦	lao wa
+老吴	lao wu
+勒古	le gu
+雷振华	lei zhen hua
+李博洋	li bo yang
+李恩姬	li en ji
+李恩实	li en shi
+李富荣	li fu rong
+李虎	li hu
+李惠芬	li hui fen
+李佳薇	li jia wei
+李佼	li jiao
+李洁	li jie
+李菊	li ju
+李楠	li nan
+李平	li ping
+李奇	li qi
+李茜	li qian
+李倩	li qian
+李嫱冰	li qiang bing
+李隼	li sun
+李廷祐	li ting you
+李晓东	li xiao dong
+李晓霞	li xiao xia
+李雪	li xue
+李洋	li yang
+李哲国	li zhe guo
+李镇权	li zhen quan
+李振恃	li zhen shi
+李政三	li zheng san
+李陟	li zhi
+连击	lian ji
+梁戈亮	liang ge liang
+梁柱恩	liang zhu en
+林晨	lin chen
+林惠卿	lin hui qing
+林聚	lin ju
+林菱	lin ling
+林载贤	lin zai xian
+柳承敏	liu cheng min
+刘国栋	liu guo dong
+刘国梁	liu guo liang
+刘国正	liu guo zheng
+刘恒	liu heng
+刘佳	liu jia
+刘娟	liu juan
+刘南奎	liu nan kui
+刘诗雯	liu shi wen
+刘松	liu song
+刘伟	liu wei
+柳絮飞	liu xu fei
+柳洋	liu yang
+刘志强	liu zhi qiang
+隆奎斯特	long kui si te
+陆元盛	lu yuan sheng
+陆云凤	lu yun feng
+轮换发球法	lun huan fa qiu fa
+罗斯科夫	luo si ke fu
+洛瓦斯	luo wa si
+吕林	lv lin
+吕雪	lv xue
+马良	ma liang
+马琳	ma lin
+马琳中国	ma lin zhong guo
+马龙	ma long
+马文革	ma wen ge
+马祖诺夫	ma zu nuo fu
+麦乐乐	mai le le
+满丽	man li
+梅村礼	mei cun li
+梅德扬斯基	mei de yang si ji
+梅强	mei qiang
+梅什洛维茨	mei shen luo wei ci
+梅兹	mei zi
+苗苗	miao miao
+名将	ming jiang
+木方慎之介	mu fang shen zhi jie
+木子	mu zi
+娜塔莉娅	na ta li ya
+男子单打	nan zi dan da
+尼塔库	ni ta ku
+倪夏莲	ni xia lian
+逆向发球	ni xiang fa qiu
+逆旋	ni xuan
+拧拉	ning la
+牛剑锋	niu jian feng
+帕夫洛维奇	pa fu luo wei qi
+帕琳娜	pa lin na
+拍柄	pai bing
+拍里奥	pai li ao
+佩尔森	pei er sen
+佩里	pei li
+彭陆洋	peng lu yang
+劈长	pi chang
+撇拉	pie la
+乒超联赛	ping chao lian sai
+乒乓球	ping pang qiu
+乒乓球技术术语	ping pang qiu ji shu shu yu
+乒乓球台	ping pang qiu tai
+乒乓球网	ping pang qiu wang
+平野早矢香	ping ye zao shi xiang
+普劳泽	pu lao ze
+普里莫拉茨	pu li mo la ci
+普里希	pu li xi
+朴美英	pu mei ying
+朴美英李倩	pu mei ying li qian
+普碳	pu tan
+朴英玉	pu ying yu
+齐宝香	qi bao xiang
+七夹	qi jia
+前冲	qian chong
+前冲弧圈球	qian chong hu quan qiu
+前三板	qian san ban
+抢冲	qiang chong
+抢拉	qiang la
+乔红	qiao hong
+乔晓卫	qiao xiao wei
+乔云平	qiao yun ping
+秦志戬	qin zhi jian
+轻挑	qing tiao
+球板	qiu ban
+球感	qiu gan
+球拍	qiu pai
+球台	qiu tai
+球台一侧	qiu tai yi ce
+球性	qiu xing
+邱贻可	qiu yi ke
+邱钟惠	qiu zhong hui
+全乒乓	quan ping pang
+饶静文	rao jing wen
+日直	ri zhi
+容国团	rong guo tuan
+萨玛拉	sa ma la
+萨姆索诺夫	sa mu suo nuo fu
+赛点	sai dian
+塞弗	sai fu
+赛果	sai guo
+赛璐珞	sai lu luo
+桑亚婵	sang ya chan
+沙陈斌	sha chen bin
+沙拉拉	sha la la
+杀神	sha shen
+上步	shang bu
+上旋	shang xuan
+上旋球	shang xuan qiu
+什特尔比科娃	shen te er bi ke wa
+沈燕飞	shen yan fei
+圣勃莱德杯	sheng bo lai de bei
+生胶	sheng jiao
+世奥得	shi ao de
+石川佳纯	shi chuan jia chun
+施德格	shi de ge
+施顿坡	shi dun po
+史鸿范	shi hong fan
+史尖	shi jian
+施婕	shi jie
+世界排名	shi jie pai ming
+施拉格	shi la ge
+施碳	shi tan
+施特鲁泽	shi te lu ze
+施之皓	shi zhi hao
+舒尔贝克	shu er bei ke
+双打	shuang da
+水谷隼	shui gu sun
+顺逆旋	shun ni xuan
+顺旋	shun xuan
+死边	si bian
+斯蒂芬诺娃	si di fen nuo wa
+斯蒂芙	si di fu
+斯蒂夫	si di fu
+斯蒂卡	si di ka
+斯米尔诺夫	si mi er nuo fu
+四面攻	si mian gong
+死守	si shou
+斯特格	si te ge
+死网	si wang
+斯韦思林杯	si wei si lin bei
+斯扎巴多斯	si zha ba duo si
+宋海伟	song hai wei
+宋鸿远	song hong yuan
+松平健太	song ping jian tai
+松下浩二	song xia hao er
+孙蓓蓓	sun bei bei
+孙健	sun jian
+孙晋	sun jin
+孙任	sun ren
+谭瑞午	tan rui wu
+谭文玲	tan wen ling
+唐娜	tang na
+唐鹏	tang peng
+套胶	tao jiao
+陶西奇	tao xi qi
+陶智新	tao zhi xin
+藤井宽子	teng jing kuan zi
+滕毅	teng yi
+藤沼亚衣	teng zhao ya yi
+田中利明	tian zhong li ming
+挑边器	tiao bian qi
+跳步	tiao bu
+挑打	tiao da
+帖雅娜	tie ya na
+挺拔	ting ba
+童玲	tong ling
+樋浦令子	tong pu ling zi
+推挡	tui dang
+托奇克	tuo qi ke
+托特	tuo te
+托西奇	tuo xi qi
+瓦尔德内尔	wa er de nei er
+瓦纳	wa na
+瓦碳	wa tan
+瓦伊达	wa yi da
+王晨	wang chen
+王浩	wang hao
+王皓	wang hao
+王建峰	wang jian feng
+王建军	wang jian jun
+王励勤	wang li qin
+王楠	wang nan
+王珊	wang shan
+王涛	wang tao
+王婷婷	wang ting ting
+王伟	wang wei
+王熹	wang xi
+王璇	wang xuan
+王亚楠	wang ya nan
+王永刚	wang yong gang
+王越古	wang yue gu
+王增羿	wang zeng yi
+王振	wang zhen
+王志良	wang zhi liang
+韦晴光	wei qing guang
+魏炎涛	wei yan tao
+文炫晶	wen xuan jing
+握拍法	wo pai fa
+沃西克	wo xi ke
+五夹	wu jia
+吴佳多	wu jia duo
+吴敬平	wu jing ping
+邬娜	wu na
+吴尚垠	wu shang yin
+吴雪	wu xue
+武杨	wu yang
+吴月娇	wu yue jiao
+吴志祺	wu zhi qi
+郗恩庭	xi en ting
+希拉	xi la
+希梅分尼	xi mei fen ni
+西普斯	xi pu si
+下蹲发球	xia dun fa qiu
+下蹲式发球	xia dun shi fa qiu
+下旋	xia xuan
+下旋球	xia xuan qiu
+羡宜芳	xian yi fang
+相持	xiang chi
+小爱	xiao ai
+小高抛	xiao gao pao
+小柳	xiao liu
+小帕夫洛维奇	xiao pa fu luo wei qi
+削球	xiao qiu
+小山雨果	xiao shan yu guo
+小山智丽	xiao shan zhi li
+小西杏	xiao xi xing
+肖战	xiao zhan
+小庄	xiao zhuang
+谢嘉俊	xie jia jun
+谢赛克	xie sai ke
+谢塞克	xie sai ke
+斜线球	xie xian qiu
+谢悦章	xie yue zhang
+徐辉	xu hui
+徐洁	xu jie
+许绍发	xu shao fa
+许斯	xu si
+许昕	xu xin
+徐寅生	xu yin sheng
+玄静和	xuan jing he
+选手	xuan shou
+雅可比	ya ke bi
+亚萨卡	ya sa ka
+闫安	yan an
+闫森	yan sen
+阎森	yan sen
+杨川宁	yang chuan ning
+杨磊	yang lei
+杨敏	yang min
+杨文巧	yang wen qiao
+杨小夫	yang xiao fu
+杨晓夫	yang xiao fu
+杨莹	yang ying
+杨影	yang ying
+杨子	yang zi
+姚彦	yao yan
+叶明辉	ye ming hui
+叶若挺	ye ruo ting
+伊朗杯	yi lang bei
+银河	yin he
+尹善爱	yin shan ai
+尹霄	yin xiao
+尹在荣	yin zai rong
+优拉	you la
+余承刚	yu cheng gang
+于国诗	yu guo shi
+于梦雨	yu meng yu
+于沈潼	yu shen tong
+远台	yuan tai
+远台打法	yuan tai da fa
+远台防守	yuan tai fang shou
+约尼尔	yue ni er
+暂停	zan ting
+翟一鸣	zhai yi ming
+詹健	zhan jian
+张超	zhang chao
+张德英	zhang de ying
+张继科	zhang ji ke
+张括	zhang kuo
+张雷	zhang lei
+张立	zhang li
+张鹏	zhang peng
+张瑞	zhang rui
+张晓武	zhang xiao wu
+张燮林	zhang xie lin
+张雪玲	zhang xue ling
+张雁书	zhang yan shu
+张洋	zhang yang
+张怡宁	zhang yi ning
+张莹莹	zhang ying ying
+张勇	zhang yong
+张钰	zhang yu
+赵彦来	zhao yan lai
+赵志燻	zhao zhi xun
+郑长弓	zheng chang gong
+正胶	zheng jiao
+郑敏之	zheng min zhi
+郑诗畅	zheng shi chang
+正手	zheng shou
+正手反攻	zheng shou fan gong
+正手防守	zheng shou fang shou
+直板	zhi ban
+直板横打	zhi ban heng da
+直板横拉	zhi ban heng la
+直拍	zhi pai
+直拍横打	zhi pai heng da
+中近台	zhong jin tai
+钟金勇	zhong jin yong
+中路	zhong lu
+中台	zhong tai
+中远台	zhong yuan tai
+中直	zhong zhi
+周斌	zhou bin
+周树森	zhou shu sen
+周阳	zhou yang
+朱芳	zhu fang
+朱世赫	zhu shi he
+朱世爀	zhu shi he
+朱文韬	zhu wen tao
+转不转	zhuan bu zhuan
+庄则栋	zhuang ze dong
+庄智渊	zhuang zhi yuan
+阻挡	zu dang
+左推右攻	zuo tui you gong
+左右开弓	zuo you kai gong
