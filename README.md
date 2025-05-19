@@ -20,3 +20,4 @@ python3 dict.py
 python3 scel2txt.py
 ```
 
+* Using this project does not require downloading everything; you only need to download `dict.py` and `scel2txt.py`. The `scel` folder contains the already downloaded dictionary, and `out` is the file after transcribing. If you don't want to download it yourself, you can directly download the entire project.
